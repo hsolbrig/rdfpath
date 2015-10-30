@@ -33,6 +33,7 @@ import argparse
 def par_graph_name(opts):
     return opts.infile + ".s.ttl"
 
+
 def ancestors(n: str, parents: dict, paths: dict) -> list:
     """ Determine the path(s) to the root for node n
     :param n: Target node
@@ -52,25 +53,28 @@ def ancestors(n: str, parents: dict, paths: dict) -> list:
     return rval
 
 
+def code_for(e):
+    return e.split('#')[-1]
+
+
 def write_results(outf, opts: argparse.Namespace, paths: dict) -> None:
     for k, ps in paths.items():
-        outf.write("\n%s:\n " % k)
-        outf.write('\n'.join(['\t' + str(p) for p in ps]))
+        outf.write("\n%s:\n " % code_for(k))
+        # outf.write('\n'.join(['\t' + str(p) for p in ps]))
+        outf.write('\n'.join(['\t' + ', '.join([code_for(e) for e in p]) for p in ps]))
+
+
+def write_path(outf, opts: argparse.Namespace, paths: dict) -> None:
+    for k, ps in paths.items():
+        print("*** " + k)
+        outf.write('\n/' + '\n/'.join(['/'.join([code_for(e) for e in reversed(p)]) for p in ps]) + '/' + code_for(k))
 
 
 def parents_graph(g: Graph, opts: argparse.Namespace) -> dict:
     rval = dict()
-    if opts.save:
-        par_graph = Graph()
     for s, o in g.subject_objects(RDFS.subClassOf):
         if not isinstance(o, BNode):
             rval.setdefault(str(s), []).append(str(o))
-            if opts.save:
-                par_graph.add((s, RDFS.subClassOf, o))
-    if opts.infile:
-        pass
-    if opts.save:
-
     return rval
 
 
@@ -99,7 +103,7 @@ def eval_paths(opts: argparse.Namespace):
     if opts.outfile:
         o_print("Writing " + opts.outfile + "...", end='')
     outf = open(opts.outfile, 'w') if opts.outfile else sys.stdout
-    write_results(outf, opts, paths)
+    write_path(outf, opts, paths)
     o_print("Done")
 
 

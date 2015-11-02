@@ -1,0 +1,993 @@
+1|\UNKNOWN\ABCB1 1 Allele\|ABCB1 1 Allele|N|FA |C45683|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Chest Problem Make You Breathless at Work\|AQ20 - Chest Problem Make You Breathless at Work|N|FA |C112539|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Diffuse Small Cleaved Cell Lymphoma\|AIDS-Related Diffuse Small Cleaved Cell Lymphoma|N|FA |C8297|concept_cd|||@
+2|\UNKNOWN\AIDS-Related Lymphoma by Working Formulation\AIDS-Related Diffuse Small Cleaved Cell Lymphoma\|AIDS-Related Diffuse Small Cleaved Cell Lymphoma|N|FA |C8297|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Diffuse Small Cleaved Cell Lymphoma\|AIDS-Related Diffuse Small Cleaved Cell Lymphoma|N|FA |C8297|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Severity of Abnormal Movements\|AIMS - Severity of Abnormal Movements|N|FA |C102041|concept_cd|||@
+1|\UNKNOWN\A\|A|N|FA |C14653|concept_cd|||@
+1|\UNKNOWN\ADAMTS13 Gene\|ADAMTS13 Gene|N|FA |C118325|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Total\|ADNI AVLT - List A Recall 4 Total|N|FA |C101962|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - ADL Total Score\|ADCS-ADL MCI - ADL Total Score|N|FA |C106978|concept_cd|||@
+3|\UNKNOWN\ALVAC Vaccine\ALVAC-CEA Vaccine\ALVAC-CEA (6D)-B7.1 Vaccine\|ALVAC-CEA (6D)-B7.1 Vaccine|N|FA |C29982|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk About Content of Program While Watching\|ADCS-ADL MCI - Talk About Content of Program While Watching|N|FA |C106923|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 3\|ADNI AVLT - List A Recall 5 Word 3|N|FA |C101966|concept_cd|||@
+1|\UNKNOWN\ACLY Gene\|ACLY Gene|N|FA |C107107|concept_cd|||@
+1|\UNKNOWN\ABCC2 Gene\|ABCC2 Gene|N|FA |C103882|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM17 Gene\|ADAM17 Gene|N|FA |C48217|concept_cd|||@
+1|\UNKNOWN\AH Receptor-Interacting Protein\|AH Receptor-Interacting Protein|N|FA |C95463|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 2\|ADNI AVLT - List A Recall 3 Word 2|N|FA |C101931|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Crosswords\|ADCS-ADL - Pastime: Crosswords|N|FA |C105332|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 10\|ADNI AVLT - List A Recall 2 Word 10|N|FA |C101922|concept_cd|||@
+1|\UNKNOWN\ACACA Gene\|ACACA Gene|N|FA |C103885|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Vacuum\|ADCS-ADL MCI - Use Household Appliance: Vacuum|N|FA |C107091|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Card or Board Games\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Card or Board Games|N|FA |C106943|concept_cd|||@
+1|\UNKNOWN\Acquired Immunodeficiency Syndrome\|Acquired Immunodeficiency Syndrome|N|FA |C2851|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 1\|ADNI AVLT - List A Recall 2 Word 1|N|FA |C101913|concept_cd|||@
+1|\UNKNOWN\ACP5 Gene Product\|ACP5 Gene Product|N|FA |C99183|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Optimal Performance of Getting Around Outside of Home\|ADCS-ADL - Description of Optimal Performance of Getting Around Outside of Home|N|FA |C105310|concept_cd|||@
+1|\UNKNOWN\APOC3 Gene\|APOC3 Gene|N|FA |C117097|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Intrusions 1\|ADNI AVLT - List A Intrusions 1|N|FA |C101912|concept_cd|||@
+1|\UNKNOWN\ACER3 Gene\|ACER3 Gene|N|FA |C103896|concept_cd|||@
+1|\UNKNOWN\AKR1A1 Gene\|AKR1A1 Gene|N|FA |C112101|concept_cd|||@
+1|\UNKNOWN\ALKBH7 Gene\|ALKBH7 Gene|N|FA |C106584|concept_cd|||@
+1|\UNKNOWN\ALPK2 Gene\|ALPK2 Gene|N|FA |C115982|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Current Teeth/Dentures Problems\|AIMS - Current Teeth/Dentures Problems|N|FA |C102044|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - 15 Minus Glasgow Coma Score\|APACHE II - 15 Minus Glasgow Coma Score|N|FA |C121109|concept_cd|||@
+1|\UNKNOWN\AG3340/Mitoxantrone/Prednisone\|AG3340/Mitoxantrone/Prednisone|N|FA |C11584|concept_cd|||@
+1|\UNKNOWN\ADAS-Cog CDISC Version Questionnaire Question\|ADAS-Cog CDISC Version Questionnaire Question|N|FA |C100106|concept_cd|||@
+1|\UNKNOWN\APEX2 Gene\|APEX2 Gene|N|FA |C20553|concept_cd|||@
+1|\UNKNOWN\APEX2 Gene\|APEX2 Gene|N|FA |C20553|concept_cd|||@
+1|\UNKNOWN\ANXA5 Gene\|ANXA5 Gene|N|FA |C24245|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 8\|ADNI AVLT - List A Recall 1 Word 8|N|FA |C101903|concept_cd|||@
+1|\UNKNOWN\A-DNA\|A-DNA|N|FA |C13186|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 12\|ADNI AVLT - List A Recall 6 (After B) Word 12|N|FA |C101992|concept_cd|||@
+1|\UNKNOWN\AL Hagedoorn, Neth\|AL Hagedoorn, Neth|N|FA |C15007|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Other\|ADCS-ADL - Pastime: Other|N|FA |C105343|concept_cd|||@
+1|\UNKNOWN\AM Mouse\|AM Mouse|N|FA |C14978|concept_cd|||@
+1|\UNKNOWN\Sivifene\|Sivifene|N|FA |C61305|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Tongue\|AIMS - Tongue|N|FA |C102037|concept_cd|||@
+1|\UNKNOWN\ACE Inhibitor\|ACE Inhibitor|N|FA |C247|concept_cd|||@
+1|\UNKNOWN\ACE Inhibitor\|ACE Inhibitor|N|FA |C247|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Worry About Long Term Effects of Drugs for Chest Trouble\|AQ20 - Worry About Long Term Effects of Drugs for Chest Trouble|N|FA |C112536|concept_cd|||@
+2|\UNKNOWN\ACD Gene\ACD wt Allele\|ACD wt Allele|N|FA |C119708|concept_cd|||@
+1|\UNKNOWN\RHOH Gene\|RHOH Gene|N|FA |C21320|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, Minority\|AIDS, Minority|N|FA |C18626|concept_cd|||@
+1|\UNKNOWN\RHOC Gene\|RHOC Gene|N|FA |C18358|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 3\|ADNI AVLT - List A 30 Min Delay Recall Word 3|N|FA |C102017|concept_cd|||@
+2|\UNKNOWN\ALPK2 Gene\ALPK2 wt Allele\|ALPK2 wt Allele|N|FA |C115983|concept_cd|||@
+1|\UNKNOWN\Sipuleucel-T\|Sipuleucel-T|N|FA |C1985|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 11\|ADNI AVLT - List A Recall 6 (After B) Word 11|N|FA |C101991|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Total\|ADNI AVLT - List B Recall Total|N|FA |C102013|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 7\|ADNI AVLT - List A 30 Min Delay Recall Word 7|N|FA |C102021|concept_cd|||@
+2|\UNKNOWN\ANXA6 Gene\ANXA6 wt Allele\|ANXA6 wt Allele|N|FA |C118335|concept_cd|||@
+1|\UNKNOWN\ADIPOR1 Gene\|ADIPOR1 Gene|N|FA |C103973|concept_cd|||@
+1|\UNKNOWN\ADCC Assay\|ADCC Assay|N|FA |C15414|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Musical Instrument\|ADCS-ADL - Pastime: Musical Instrument|N|FA |C105334|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Other Specify\|ADCS-ADL - Pastime: Other Specify|N|FA |C105344|concept_cd|||@
+1|\UNKNOWN\AIDS Clinical Trial\|AIDS Clinical Trial|N|FA |C51359|concept_cd|||@
+1|\UNKNOWN\AK 3012\|AK 3012|N|FA |C104266|concept_cd|||@
+1|\UNKNOWN\AHR Signal Transduction Pathway\|AHR Signal Transduction Pathway|N|FA |C38972|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 10\|ADNI AVLT - List A Recall 4 Word 10|N|FA |C101956|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Idiopathic Thrombocytopenic Purpura\|AIDS-Related Idiopathic Thrombocytopenic Purpura|N|FA |C27869|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Idiopathic Thrombocytopenic Purpura\|AIDS-Related Idiopathic Thrombocytopenic Purpura|N|FA |C27869|concept_cd|||@
+1|\UNKNOWN\ACVBP Regimen\|ACVBP Regimen|N|FA |C63446|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Intrusions 3\|ADNI AVLT - List A Intrusions 3|N|FA |C101946|concept_cd|||@
+1|\UNKNOWN\AG 1517\|AG 1517|N|FA |C1787|concept_cd|||@
+1|\UNKNOWN\AGRP Gene\|AGRP Gene|N|FA |C115166|concept_cd|||@
+2|\UNKNOWN\ADRA2C Gene\ADRA2C wt Allele\|ADRA2C wt Allele|N|FA |C107614|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Usual Conversation Participation\|ADCS-ADL - Usual Conversation Participation|N|FA |C105298|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 9\|ADNI AVLT - List B Recall Word 9|N|FA |C102006|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Performed Hobbies Only at Day Care\|ADCS-ADL - Performed Hobbies Only at Day Care|N|FA |C105345|concept_cd|||@
+1|\UNKNOWN\ARHGEF7 Gene\|ARHGEF7 Gene|N|FA |C97199|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Dishwasher\|ADCS-ADL - Appliance: Dishwasher|N|FA |C105351|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 1\|ADNI AVLT - List A Recall 4 Word 1|N|FA |C101947|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Dispose of Garbage in Appropriate Place at Home\|ADCS-ADL Severe Dementia - Dispose of Garbage in Appropriate Place at Home|N|FA |C106999|concept_cd|||@
+2|\UNKNOWN\ANK2 Gene\ANK2 wt Allele\|ANK2 wt Allele|N|FA |C114996|concept_cd|||@
+1|\UNKNOWN\RUNX1 Gene Mutation\|RUNX1 Gene Mutation|N|FA |C38362|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Use a Telephone\|ADCS-ADL - Use a Telephone|N|FA |C105291|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Go Shopping At a Store\|ADCS-ADL MCI - Go Shopping At a Store|N|FA |C106925|concept_cd|||@
+1|\UNKNOWN\AD Regimen\|AD Regimen|N|FA |C63516|concept_cd|||@
+1|\UNKNOWN\ADVIA Centaur\|ADVIA Centaur|N|FA |C113737|concept_cd|||@
+2|\UNKNOWN\ABCC3 Gene\ABCC3 wt Allele\|ABCC3 wt Allele|N|FA |C106022|concept_cd|||@
+1|\UNKNOWN\GTF2A1L Gene\|GTF2A1L Gene|N|FA |C20597|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Range\|ADCS-ADL MCI - Use Household Appliance: Range|N|FA |C106936|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Cough Often During the Day\|AQ20 - Cough Often During the Day|N|FA |C112529|concept_cd|||@
+1|\UNKNOWN\AIDS Malignancy Consortium\|AIDS Malignancy Consortium|N|FA |C19707|concept_cd|||@
+2|\UNKNOWN\ANGPT4 Gene\ANGPT4 wt Allele\|ANGPT4 wt Allele|N|FA |C106489|concept_cd|||@
+1|\UNKNOWN\Apgar Score at Twenty Minutes\|Apgar Score at Twenty Minutes|N|FA |C98820|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 15\|ADNI AVLT - List A Recall 6 (After B) Word 15|N|FA |C101995|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 9\|ADNI AVLT - List A Recall 3 Word 9|N|FA |C101938|concept_cd|||@
+1|\UNKNOWN\ADE Regimen\|ADE Regimen|N|FA |C67207|concept_cd|||@
+2|\UNKNOWN\ALOX5 Gene\ALOX5 wt Allele\|ALOX5 wt Allele|N|FA |C68727|concept_cd|||@
+1|\UNKNOWN\ABL2 Gene\|ABL2 Gene|N|FA |C18451|concept_cd|||@
+1|\UNKNOWN\APOA1 Gene\|APOA1 Gene|N|FA |C116417|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Diffuse Large Cell Lymphoma\|AIDS-Related Diffuse Large Cell Lymphoma|N|FA |C7213|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Diffuse Large Cell Lymphoma\|AIDS-Related Diffuse Large Cell Lymphoma|N|FA |C7213|concept_cd|||@
+2|\UNKNOWN\AIDS-Related Lymphoma by Working Formulation\AIDS-Related Diffuse Large Cell Lymphoma\|AIDS-Related Diffuse Large Cell Lymphoma|N|FA |C7213|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Perform Pastime, Hobby or Game\|ADCS-ADL - Perform Pastime, Hobby or Game|N|FA |C105329|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Dryer\|ADCS-ADL MCI - Use Household Appliance: Dryer|N|FA |C107090|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About Events on TV that Subject Did not Take Part In\|ADCS-ADL - Talk About Events on TV that Subject Did not Take Part In|N|FA |C105321|concept_cd|||@
+1|\UNKNOWN\AIDS Encephalopathy\|AIDS Encephalopathy|N|FA |C3715|concept_cd|||@
+1|\UNKNOWN\ADHD Rating Scale-IV Home Version Questionnaire\|ADHD Rating Scale-IV Home Version Questionnaire|N|FA |C122371|concept_cd|||@
+1|\UNKNOWN\ARC Stent Thrombosis Timing Late\|ARC Stent Thrombosis Timing Late|N|FA |C119596|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Items 11 to 12\|ADCS-ADL MCI - Subscore for Items 11 to 12|N|FA |C106973|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Toxoplasmosis\|AIDS-Related Toxoplasmosis|N|FA |C27865|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Toxoplasmosis\|AIDS-Related Toxoplasmosis|N|FA |C27865|concept_cd|||@
+1|\UNKNOWN\ALDH1A1 Gene\|ALDH1A1 Gene|N|FA |C116056|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 8\|ADNI AVLT - List A Recall 3 Word 8|N|FA |C101937|concept_cd|||@
+1|\UNKNOWN\ABTB2 Gene\|ABTB2 Gene|N|FA |C90175|concept_cd|||@
+1|\UNKNOWN\DIRAS3 Gene\|DIRAS3 Gene|N|FA |C20761|concept_cd|||@
+2|\UNKNOWN\ACLY Gene\ACLY wt Allele\|ACLY wt Allele|N|FA |C107108|concept_cd|||@
+1|\UNKNOWN\ADORA3 Gene\|ADORA3 Gene|N|FA |C38615|concept_cd|||@
+1|\UNKNOWN\API2-MLT Fusion Protein Expression\|API2-MLT Fusion Protein Expression|N|FA |C38459|concept_cd|||@
+1|\UNKNOWN\APAF1 Gene\|APAF1 Gene|N|FA |C20358|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Total\|ADNI AVLT - List A Recall 1 Total|N|FA |C101911|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Alone at Home for One Hour or Longer\|ADCS-ADL Severe Dementia - Alone at Home for One Hour or Longer|N|FA |C107005|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Carry Through Complex Activities to Completion\|ADCS-ADL MCI - Carry Through Complex Activities to Completion|N|FA |C106964|concept_cd|||@
+1|\UNKNOWN\AGPAT5 Gene\|AGPAT5 Gene|N|FA |C114687|concept_cd|||@
+1|\UNKNOWN\APLN Gene\|APLN Gene|N|FA |C104096|concept_cd|||@
+1|\UNKNOWN\ALOX15B Gene\|ALOX15B Gene|N|FA |C114803|concept_cd|||@
+1|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\|ADCS-ADL Severe Dementia Questionnaire Question|N|FA |C106673|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - White Blood Count\|APACHE II - White Blood Count|N|FA |C121108|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 11\|ADNI AVLT - List B Recall Word 11|N|FA |C102008|concept_cd|||@
+1|\UNKNOWN\AKT Family Gene Mutation\|AKT Family Gene Mutation|N|FA |C96865|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Usual Performance of Eating\|ADCS-ADL Severe Dementia - Description of Usual Performance of Eating|N|FA |C106979|concept_cd|||@
+2|\UNKNOWN\ADH1C Gene\ADH1C wt Allele\|ADH1C wt Allele|N|FA |C111824|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 2\|ADNI AVLT - List B Recall Word 2|N|FA |C101999|concept_cd|||@
+1|\UNKNOWN\A549/ATCC\|A549/ATCC|N|FA |C117127|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 2\|ADNI AVLT - List A Recall 1 Word 2|N|FA |C101897|concept_cd|||@
+1|\UNKNOWN\ABCB5 Gene\|ABCB5 Gene|N|FA |C73555|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 15\|ADNI AVLT - List A Recall 3 Word 15|N|FA |C101944|concept_cd|||@
+1|\UNKNOWN\ANP32C Gene\|ANP32C Gene|N|FA |C20756|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 2\|ADNI AVLT - List A 30 Min Delay Recall Word 2|N|FA |C102016|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Optimal Performance of Travelling Outside Home\|ADCS-ADL MCI - Description of Optimal Performance of Travelling Outside Home|N|FA |C106911|concept_cd|||@
+1|\UNKNOWN\ADAMTS1 Gene\|ADAMTS1 Gene|N|FA |C21276|concept_cd|||@
+1|\UNKNOWN\APOA1/APOC3 Fusion Gene\|APOA1/APOC3 Fusion Gene|N|FA |C99187|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Left Away From Home for Fifteen Minutes or Longer\|ADCS-ADL - Left Away From Home for Fifteen Minutes or Longer|N|FA |C105317|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 8\|ADNI AVLT - List A 30 Min Delay Recall Word 8|N|FA |C102022|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Lymphoma by Working Formulation\|AIDS-Related Lymphoma by Working Formulation|N|FA |C27826|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game\|ADCS-ADL MCI - Perform Pastime, Hobby or Game|N|FA |C106942|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 12\|ADNI AVLT - List A Recall 1 Word 12|N|FA |C101907|concept_cd|||@
+1|\UNKNOWN\ABL Mouse\|ABL Mouse|N|FA |C14984|concept_cd|||@
+1|\UNKNOWN\AIDS Treatment Research\|AIDS Treatment Research|N|FA |C19201|concept_cd|||@
+1|\UNKNOWN\APUD Cell\|APUD Cell|N|FA |C12655|concept_cd|||@
+1|\UNKNOWN\AL721\|AL721|N|FA |C993|concept_cd|||@
+2|\UNKNOWN\APOB Gene\APOB wt Allele\|APOB wt Allele|N|FA |C106031|concept_cd|||@
+1|\UNKNOWN\AKT3 Gene\|AKT3 Gene|N|FA |C20937|concept_cd|||@
+1|\UNKNOWN\ALK Inhibitor X-396\|ALK Inhibitor X-396|N|FA |C102754|concept_cd|||@
+1|\UNKNOWN\Paclitaxel Albumin-Stabilized Nanoparticle Formulation\|Paclitaxel Albumin-Stabilized Nanoparticle Formulation|N|FA |C2688|concept_cd|||@
+1|\UNKNOWN\ACTB Gene\|ACTB Gene|N|FA |C103965|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About Current Events\|ADCS-ADL - Talk About Current Events|N|FA |C105320|concept_cd|||@
+1|\UNKNOWN\AJCC v7 Stage\|AJCC v7 Stage|N|FA |C90530|concept_cd|||@
+1|\UNKNOWN\Plerixafor\|Plerixafor|N|FA |C1777|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About TV Content Within a Day After Watching\|ADCS-ADL - Talk About TV Content Within a Day After Watching|N|FA |C105296|concept_cd|||@
+1|\UNKNOWN\ANXA2 Gene\|ANXA2 Gene|N|FA |C105376|concept_cd|||@
+1|\UNKNOWN\ALOX12B Gene\|ALOX12B Gene|N|FA |C96337|concept_cd|||@
+1|\UNKNOWN\APC Vaccine\|APC Vaccine|N|FA |C28308|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 12\|ADNI AVLT - List A Recall 5 Word 12|N|FA |C101975|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM8 Gene\|ADAM8 Gene|N|FA |C90314|concept_cd|||@
+1|\UNKNOWN\ALAS1 Gene\|ALAS1 Gene|N|FA |C111872|concept_cd|||@
+2|\UNKNOWN\AGTRAP Gene\AGTRAP wt Allele\|AGTRAP wt Allele|N|FA |C101501|concept_cd|||@
+1|\UNKNOWN\ABI2 Gene\|ABI2 Gene|N|FA |C21265|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Suffer From Breathlessness When Laugh\|AQ20 - Suffer From Breathlessness When Laugh|N|FA |C112543|concept_cd|||@
+1|\UNKNOWN\ALVAC Vaccine\|ALVAC Vaccine|N|FA |C1479|concept_cd|||@
+1|\UNKNOWN\RHOA Gene\|RHOA Gene|N|FA |C18356|concept_cd|||@
+1|\UNKNOWN\APRT Gene\|APRT Gene|N|FA |C38177|concept_cd|||@
+1|\UNKNOWN\ADH1C Gene\|ADH1C Gene|N|FA |C111822|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 1\|ADNI AVLT - List A Recall 3 Word 1|N|FA |C101930|concept_cd|||@
+1|\UNKNOWN\ALVAC-CEA-B7.1 vaccine/Fluorouracil/Irinotecan/Leucovorin calcium/Tetanus toxoid\|ALVAC-CEA-B7.1 vaccine/Fluorouracil/Irinotecan/Leucovorin calcium/Tetanus toxoid|N|FA |C12101|concept_cd|||@
+1|\UNKNOWN\AE Mouse\|AE Mouse|N|FA |C14531|concept_cd|||@
+1|\UNKNOWN\ANTXR1 Gene\|ANTXR1 Gene|N|FA |C104093|concept_cd|||@
+1|\UNKNOWN\AKT2 Gene\|AKT2 Gene|N|FA |C18352|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 15\|ADNI AVLT - List B Recall Word 15|N|FA |C102012|concept_cd|||@
+1|\UNKNOWN\ADRA2C Gene\|ADRA2C Gene|N|FA |C107613|concept_cd|||@
+1|\UNKNOWN\AKR/J (?)\|AKR/J (?)|N|FA |C14669|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 8\|ADNI AVLT - List A Recall 2 Word 8|N|FA |C101920|concept_cd|||@
+1|\UNKNOWN\AIDS and Cancer Specimen Bank\|AIDS and Cancer Specimen Bank|N|FA |C16195|concept_cd|||@
+1|\UNKNOWN\APBA3 Gene\|APBA3 Gene|N|FA |C104848|concept_cd|||@
+3|\UNKNOWN\ALVAC Vaccine\ALVAC-CEA Vaccine\ALVAC-B7-CEA\|ALVAC-B7-CEA|N|FA |C2742|concept_cd|||@
+1|\UNKNOWN\RHOB Gene\|RHOB Gene|N|FA |C18357|concept_cd|||@
+1|\UNKNOWN\APBA1 Gene\|APBA1 Gene|N|FA |C104827|concept_cd|||@
+1|\UNKNOWN\AG-024322\|AG-024322|N|FA |C52182|concept_cd|||@
+2|\UNKNOWN\ALVAC Vaccine\ALVAC-ESO-1 Vaccine\|ALVAC-ESO-1 Vaccine|N|FA |C90558|concept_cd|||@
+1|\UNKNOWN\ALOX5 Gene\|ALOX5 Gene|N|FA |C68726|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Items 15 to 16\|ADCS-ADL MCI - Subscore for Items 15 to 16|N|FA |C106975|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Extenuating Circumstance\|ADCS-ADL MCI - Extenuating Circumstance|N|FA |C106968|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Incapacitation Due to Abnormal Movements\|AIMS - Incapacitation Due to Abnormal Movements|N|FA |C102042|concept_cd|||@
+1|\UNKNOWN\AG 1732\|AG 1732|N|FA |C2042|concept_cd|||@
+2|\UNKNOWN\APOA4 Gene\APOA4 wt Allele\|APOA4 wt Allele|N|FA |C116604|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Temperature, Rectal\|APACHE II - Temperature, Rectal|N|FA |C121096|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Get Around Outside Home\|ADCS-ADL - Get Around Outside Home|N|FA |C105309|concept_cd|||@
+1|\UNKNOWN\AKR/FuA\|AKR/FuA|N|FA |C14667|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Most Complicated Things Written\|ADCS-ADL MCI - Description of Usual Performance of Most Complicated Things Written|N|FA |C106901|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Fullness of Life is Limited by Chest Trouble\|AQ20 - Fullness of Life is Limited by Chest Trouble|N|FA |C112545|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Art\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Art|N|FA |C106946|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Serum Potassium\|APACHE II - Serum Potassium|N|FA |C121105|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk About Regional, National or International Events\|ADCS-ADL MCI - Talk About Regional, National or International Events|N|FA |C106913|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Extent Needing Reminder\|ADCS-ADL MCI - Description of Extent Needing Reminder|N|FA |C106965|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Usual Performance of Bathing\|ADCS-ADL Severe Dementia - Description of Usual Performance of Bathing|N|FA |C106982|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Gardening\|ADCS-ADL - Pastime: Gardening|N|FA |C105338|concept_cd|||@
+1|\UNKNOWN\AIDS Related Research, Women\|AIDS Related Research, Women|N|FA |C18621|concept_cd|||@
+2|\UNKNOWN\AKR1C2 Gene\AKR1C2 wt Allele\|AKR1C2 wt Allele|N|FA |C105427|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Neck, Shoulders, Hips\|AIMS - Neck, Shoulders, Hips|N|FA |C102040|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Difficulty Getting Around the House Because of Chest Trouble\|AQ20 - Difficulty Getting Around the House Because of Chest Trouble|N|FA |C112538|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Oxygenation, PaO2\|APACHE II - Oxygenation, PaO2|N|FA |C121101|concept_cd|||@
+1|\UNKNOWN\Nilotinib\|Nilotinib|N|FA |C48375|concept_cd|||@
+2|\UNKNOWN\ANK1 Gene\ANK1 wt Allele\|ANK1 wt Allele|N|FA |C84302|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 1\|ADNI AVLT - List A 30 Min Delay Recall Word 1|N|FA |C102015|concept_cd|||@
+1|\UNKNOWN\ADM Gene\|ADM Gene|N|FA |C113264|concept_cd|||@
+1|\UNKNOWN\ALT_LONG_DEFINITION\|ALT_LONG_DEFINITION|N|FA |C53508|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 14\|ADNI AVLT - List A Recall 2 Word 14|N|FA |C101926|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, Homosexual\|AIDS, Homosexual|N|FA |C18624|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 9\|ADNI AVLT - List A 30 Min Delay Recall Word 9|N|FA |C102023|concept_cd|||@
+1|\UNKNOWN\AP-2 Family Transcription Factor\|AP-2 Family Transcription Factor|N|FA |C17545|concept_cd|||@
+1|\UNKNOWN\ADCS-ADL Questionnaire Question\|ADCS-ADL Questionnaire Question|N|FA |C105146|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Optimal Performance of Getting Around Outside of Home\|ADCS-ADL Severe Dementia - Description of Optimal Performance of Getting Around Outside of Home|N|FA |C107002|concept_cd|||@
+3|\UNKNOWN\ALVAC Vaccine\ALVAC-CEA Vaccine\ALVAC-CEA B7.1 Vaccine\|ALVAC-CEA B7.1 Vaccine|N|FA |C1977|concept_cd|||@
+2|\UNKNOWN\APOE Gene\APOE*4 Allele\|APOE*4 Allele|N|FA |C105362|concept_cd|||@
+1|\UNKNOWN\Anterior Gradient Protein 2 Homolog\|Anterior Gradient Protein 2 Homolog|N|FA |C21482|concept_cd|||@
+2|\UNKNOWN\ACOX2 Gene\ACOX2 wt Allele\|ACOX2 wt Allele|N|FA |C96442|concept_cd|||@
+1|\UNKNOWN\ABT-510/Carboplatin/Paclitaxel\|ABT-510/Carboplatin/Paclitaxel|N|FA |C37493|concept_cd|||@
+1|\UNKNOWN\AKT1 Gene Mutation\|AKT1 Gene Mutation|N|FA |C98304|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Intrusions\|ADNI AVLT - List A 30 Min Delay Intrusions|N|FA |C102031|concept_cd|||@
+1|\UNKNOWN\AGER Gene\|AGER Gene|N|FA |C106212|concept_cd|||@
+1|\UNKNOWN\AFP Gene\|AFP Gene|N|FA |C21577|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Total APACHE II Score\|APACHE II - Total APACHE II Score|N|FA |C121113|concept_cd|||@
+2|\UNKNOWN\ADIPOR1 Gene\ADIPOR1 wt Allele\|ADIPOR1 wt Allele|N|FA |C103974|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Use of Commonly Used Appliances\|ADCS-ADL MCI - Description of Usual Use of Commonly Used Appliances|N|FA |C106941|concept_cd|||@
+3|\UNKNOWN\ADAM Family Gene\ADAM8 Gene\ADAM8 wt Allele\|ADAM8 wt Allele|N|FA |C90315|concept_cd|||@
+1|\UNKNOWN\ABVD Regimen\|ABVD Regimen|N|FA |C63364|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 13\|ADNI AVLT - List A Recall 2 Word 13|N|FA |C101925|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 12\|ADNI AVLT - List A Recall 4 Word 12|N|FA |C101958|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 5\|ADNI AVLT - List A Recall 6 (After B) Word 5|N|FA |C101985|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Left Away From Home Longer Than 15 Minutes\|ADCS-ADL MCI - Left Away From Home Longer Than 15 Minutes|N|FA |C106929|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Jaw\|AIMS - Jaw|N|FA |C102036|concept_cd|||@
+1|\UNKNOWN\ANO1 Gene\|ANO1 Gene|N|FA |C115173|concept_cd|||@
+1|\UNKNOWN\ANXA6 Gene\|ANXA6 Gene|N|FA |C118334|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Highest Performance of Obtaining Beverage\|ADCS-ADL - Description of Highest Performance of Obtaining Beverage|N|FA |C105304|concept_cd|||@
+1|\UNKNOWN\AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine\|AML mRNA Positive Lysate Loaded Autologous Dendritic Cell Vaccine|N|FA |C74000|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - C, Chronic Health Points\|APACHE II - C, Chronic Health Points|N|FA |C121112|concept_cd|||@
+1|\UNKNOWN\Apgar Test\|Apgar Test|N|FA |C81230|concept_cd|||@
+2|\UNKNOWN\ARHGAP29 Gene\ARHGAP29 wt Allele\|ARHGAP29 wt Allele|N|FA |C101360|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Keep Appointments\|ADCS-ADL MCI - Keep Appointments|N|FA |C106904|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Balancing Checkbook\|ADCS-ADL MCI - Description of Usual Performance of Balancing Checkbook|N|FA |C106899|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 7\|ADNI AVLT - List A Recall 2 Word 7|N|FA |C101919|concept_cd|||@
+1|\UNKNOWN\Anti-inflammatory Antibody ALXN1007\|Anti-inflammatory Antibody ALXN1007|N|FA |C118441|concept_cd|||@
+1|\UNKNOWN\AKAP9/BRAF Fusion Gene\|AKAP9/BRAF Fusion Gene|N|FA |C99593|concept_cd|||@
+1|\UNKNOWN\ADRA2B Gene\|ADRA2B Gene|N|FA |C21288|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Make a Meal or Snack\|ADCS-ADL MCI - Make a Meal or Snack|N|FA |C106908|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Musical Instrument\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Musical Instrument|N|FA |C106947|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 11\|ADNI AVLT - List A Recall 3 Word 11|N|FA |C101940|concept_cd|||@
+1|\UNKNOWN\Apgar Score at Fifteen Minutes\|Apgar Score at Fifteen Minutes|N|FA |C98819|concept_cd|||@
+2|\UNKNOWN\APBA1 Gene\APBA1 wt Allele\|APBA1 wt Allele|N|FA |C104828|concept_cd|||@
+1|\UNKNOWN\AGT Gene\|AGT Gene|N|FA |C38185|concept_cd|||@
+1|\UNKNOWN\AGT Gene\|AGT Gene|N|FA |C38185|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, Other Minorities\|AIDS, Other Minorities|N|FA |C18627|concept_cd|||@
+1|\UNKNOWN\ADD-Type Zinc-Finger\|ADD-Type Zinc-Finger|N|FA |C26111|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Optimal Performance of Grooming\|ADCS-ADL Severe Dementia - Description of Optimal Performance of Grooming|N|FA |C106983|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Washer\|ADCS-ADL MCI - Use Household Appliance: Washer|N|FA |C107089|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Take Medications Regularly\|ADCS-ADL MCI - Take Medications Regularly|N|FA |C106962|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 4\|ADNI AVLT - List A Recall 5 Word 4|N|FA |C101967|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Explain Extenuating Circumstance\|ADCS-ADL MCI - Explain Extenuating Circumstance|N|FA |C106969|concept_cd|||@
+1|\UNKNOWN\ANXA8 Gene\|ANXA8 Gene|N|FA |C20940|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk About Current Events\|ADCS-ADL MCI - Talk About Current Events|N|FA |C106912|concept_cd|||@
+1|\UNKNOWN\AIDS Oncology Research Handbook\|AIDS Oncology Research Handbook|N|FA |C19708|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Food Processor\|ADCS-ADL MCI - Use Household Appliance: Food Processor|N|FA |C106938|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Get Around Outside Home\|ADCS-ADL Severe Dementia - Get Around Outside Home|N|FA |C107001|concept_cd|||@
+2|\UNKNOWN\ANLN Gene\ANLN wt Allele\|ANLN wt Allele|N|FA |C103963|concept_cd|||@
+1|\UNKNOWN\ABCA1 Gene\|ABCA1 Gene|N|FA |C116408|concept_cd|||@
+1|\UNKNOWN\ABBV-221\|ABBV-221|N|FA |C120556|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 15\|ADNI AVLT - List A Recall 1 Word 15|N|FA |C101910|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Talk About TV Content Within a Day After Watching\|ADCS-ADL Severe Dementia - Talk About TV Content Within a Day After Watching|N|FA |C106990|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 2\|ADNI AVLT - List A Recall 6 (After B) Word 2|N|FA |C101982|concept_cd|||@
+1|\UNKNOWN\AIMP2 Gene\|AIMP2 Gene|N|FA |C97241|concept_cd|||@
+1|\UNKNOWN\ADD3 Gene\|ADD3 Gene|N|FA |C80077|concept_cd|||@
+1|\UNKNOWN\Pelitrexol\|Pelitrexol|N|FA |C2633|concept_cd|||@
+1|\UNKNOWN\Pelitrexol\|Pelitrexol|N|FA |C2633|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Bingo\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Bingo|N|FA |C106944|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Select Correct Items Without Help\|ADCS-ADL MCI - Select Correct Items Without Help|N|FA |C106926|concept_cd|||@
+1|\UNKNOWN\AMHR2 Gene\|AMHR2 Gene|N|FA |C21314|concept_cd|||@
+1|\UNKNOWN\APOBEC3B Gene\|APOBEC3B Gene|N|FA |C117001|concept_cd|||@
+1|\UNKNOWN\AIDS Population\|AIDS Population|N|FA |C18620|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Clear Dishes After Meal or Snack\|ADCS-ADL - Clear Dishes After Meal or Snack|N|FA |C105299|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Feeling of Chest Heaviness\|AQ20 - Feeling of Chest Heaviness|N|FA |C112547|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 2\|ADNI AVLT - List A Recall 4 Word 2|N|FA |C101948|concept_cd|||@
+1|\UNKNOWN\AKT1S1 Gene\|AKT1S1 Gene|N|FA |C101614|concept_cd|||@
+1|\UNKNOWN\APLP1 Gene\|APLP1 Gene|N|FA |C119729|concept_cd|||@
+1|\UNKNOWN\AC-T Regimen\|AC-T Regimen|N|FA |C63427|concept_cd|||@
+1|\UNKNOWN\AGR2 Gene\|AGR2 Gene|N|FA |C20755|concept_cd|||@
+1|\UNKNOWN\A2M Gene\|A2M Gene|N|FA |C105922|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Use Household Appliance to do Chores\|ADCS-ADL - Use Household Appliance to do Chores|N|FA |C105347|concept_cd|||@
+1|\UNKNOWN\ALVAC-hB7.1/Canarypox-hIL-12 Melanoma Vaccine\|ALVAC-hB7.1/Canarypox-hIL-12 Melanoma Vaccine|N|FA |C11590|concept_cd|||@
+1|\UNKNOWN\ARC Possible Stent Thrombosis\|ARC Possible Stent Thrombosis|N|FA |C119600|concept_cd|||@
+2|\UNKNOWN\APOBEC3A Gene\APOBEC3A wt Allele\|APOBEC3A wt Allele|N|FA |C116999|concept_cd|||@
+1|\UNKNOWN\ACE2 Gene\|ACE2 Gene|N|FA |C102527|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Retinopathy\|AIDS-Related Retinopathy|N|FA |C27344|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 6\|ADNI AVLT - List A Recall 4 Word 6|N|FA |C101952|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Sewing\|ADCS-ADL - Pastime: Sewing|N|FA |C105336|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Read More Than 5 Minutes\|ADCS-ADL MCI - Read More Than 5 Minutes|N|FA |C106917|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Items 8 to 10\|ADCS-ADL MCI - Subscore for Items 8 to 10|N|FA |C106972|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 1\|ADNI AVLT - List B Recall Word 1|N|FA |C101998|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 14\|ADNI AVLT - List A Recall 4 Word 14|N|FA |C101960|concept_cd|||@
+1|\UNKNOWN\ANP32C Protein\|ANP32C Protein|N|FA |C21484|concept_cd|||@
+1|\UNKNOWN\ALK5 Inhibitor TEW-7197\|ALK5 Inhibitor TEW-7197|N|FA |C116357|concept_cd|||@
+1|\UNKNOWN\APC2 Gene\|APC2 Gene|N|FA |C21304|concept_cd|||@
+1|\UNKNOWN\ANGPT1 Gene\|ANGPT1 Gene|N|FA |C21311|concept_cd|||@
+1|\UNKNOWN\Navitoclax\|Navitoclax|N|FA |C64776|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 14\|ADNI AVLT - List A Recall 6 (After B) Word 14|N|FA |C101994|concept_cd|||@
+1|\UNKNOWN\AGTRAP Gene\|AGTRAP Gene|N|FA |C101500|concept_cd|||@
+1|\UNKNOWN\APOBEC3F Gene\|APOBEC3F Gene|N|FA |C95272|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Go Shopping\|ADCS-ADL - Go Shopping|N|FA |C105311|concept_cd|||@
+1|\UNKNOWN\ADCY9 Gene\|ADCY9 Gene|N|FA |C21283|concept_cd|||@
+1|\UNKNOWN\AEE788\|AEE788|N|FA |C48369|concept_cd|||@
+1|\UNKNOWN\ALK Break Apart FISH Probe Kit\|ALK Break Apart FISH Probe Kit|N|FA |C111619|concept_cd|||@
+1|\UNKNOWN\ABT-751\|ABT-751|N|FA |C2679|concept_cd|||@
+1|\UNKNOWN\ACR/A Mouse\|ACR/A Mouse|N|FA |C14668|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 13\|ADNI AVLT - List A Recall 5 Word 13|N|FA |C101976|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 11\|ADNI AVLT - List A Recall 2 Word 11|N|FA |C101923|concept_cd|||@
+1|\UNKNOWN\ARHGEF1 Gene\|ARHGEF1 Gene|N|FA |C20943|concept_cd|||@
+1|\UNKNOWN\ANG Gene\|ANG Gene|N|FA |C26619|concept_cd|||@
+1|\UNKNOWN\AFF4 Gene\|AFF4 Gene|N|FA |C21385|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pay for Items Without Supervision or Physical Help\|ADCS-ADL - Pay for Items Without Supervision or Physical Help|N|FA |C105313|concept_cd|||@
+1|\UNKNOWN\AEJ/Gn Mouse\|AEJ/Gn Mouse|N|FA |C37353|concept_cd|||@
+1|\UNKNOWN\ABP/LeJ Mouse\|ABP/LeJ Mouse|N|FA |C37352|concept_cd|||@
+1|\UNKNOWN\ARHGEF2 Gene\|ARHGEF2 Gene|N|FA |C101780|concept_cd|||@
+1|\UNKNOWN\ACI, Rat Strain\|ACI, Rat Strain|N|FA |C14392|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Feel Breathless When Trying to Sleep\|AQ20 - Feel Breathless When Trying to Sleep|N|FA |C112535|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Select or Ask for Programs or Show\|ADCS-ADL MCI - Select or Ask for Programs or Show|N|FA |C106922|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Select First Clothes for the Day\|ADCS-ADL MCI - Select First Clothes for the Day|N|FA |C106893|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Taking Medications Regularly\|ADCS-ADL MCI - Description of Taking Medications Regularly|N|FA |C106963|concept_cd|||@
+1|\UNKNOWN\HIV-Associated Nephropathy\|HIV-Associated Nephropathy|N|FA |C26918|concept_cd|||@
+1|\UNKNOWN\HIV-Associated Nephropathy\|HIV-Associated Nephropathy|N|FA |C26918|concept_cd|||@
+1|\UNKNOWN\Alectinib\|Alectinib|N|FA |C101790|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Total\|ADNI AVLT - List A Recall 3 Total|N|FA |C101945|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Microwave\|ADCS-ADL MCI - Use Household Appliance: Microwave|N|FA |C106937|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Sum of Items 6-8\|ADCS-ADL Severe Dementia - Sum of Items 6-8|N|FA |C107012|concept_cd|||@
+1|\UNKNOWN\ABVE Regimen\|ABVE Regimen|N|FA |C67162|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Intrusions 2\|ADNI AVLT - List A Intrusions 2|N|FA |C101929|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 3\|ADNI AVLT - List A Recall 3 Word 3|N|FA |C101932|concept_cd|||@
+1|\UNKNOWN\ADH-1\|ADH-1|N|FA |C53399|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Turn On Light Without Help Entering Room\|ADCS-ADL Severe Dementia - Turn On Light Without Help Entering Room|N|FA |C107009|concept_cd|||@
+1|\UNKNOWN\ACADM Gene\|ACADM Gene|N|FA |C82873|concept_cd|||@
+1|\UNKNOWN\AIM2(-1)/HT001(-1)/TAF1B(-1) Frameshift Peptide Vaccine\|AIM2(-1)/HT001(-1)/TAF1B(-1) Frameshift Peptide Vaccine|N|FA |C99129|concept_cd|||@
+1|\UNKNOWN\ACP5 Gene\|ACP5 Gene|N|FA |C99181|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Partner Find Your Chest Trouble Upsetting\|AQ20 - Partner Find Your Chest Trouble Upsetting|N|FA |C112534|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Malignancies Working Group\|AIDS-Related Malignancies Working Group|N|FA |C19518|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Finding Personal Belonging at Home\|ADCS-ADL - Description of Usual Performance of Finding Personal Belonging at Home|N|FA |C105302|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Isosporiasis\|AIDS-Related Isosporiasis|N|FA |C27868|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Isosporiasis\|AIDS-Related Isosporiasis|N|FA |C27868|concept_cd|||@
+1|\UNKNOWN\ADAMTS9 Gene\|ADAMTS9 Gene|N|FA |C21278|concept_cd|||@
+1|\UNKNOWN\AATF Gene\|AATF Gene|N|FA |C92521|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Usual Bowel and Bladder Function at Toilet\|ADCS-ADL - Usual Bowel and Bladder Function at Toilet|N|FA |C105285|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Golf\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Golf|N|FA |C106952|concept_cd|||@
+1|\UNKNOWN\ARHGAP29 Gene\|ARHGAP29 Gene|N|FA |C101359|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Selecting First Clothes for the Day\|ADCS-ADL MCI - Description of Usual Performance of Selecting First Clothes for the Day|N|FA |C106894|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 4\|ADNI AVLT - List A Recall 2 Word 4|N|FA |C101916|concept_cd|||@
+1|\UNKNOWN\AKAP9 Gene\|AKAP9 Gene|N|FA |C21305|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, Hispanic\|AIDS, Hispanic|N|FA |C18623|concept_cd|||@
+1|\UNKNOWN\AKT 1/2 Inhibitor BAY1125976\|AKT 1/2 Inhibitor BAY1125976|N|FA |C111575|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use a Telephone\|ADCS-ADL MCI - Use a Telephone|N|FA |C106906|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Feel Drained After a Cold Because of Chest Trouble\|AQ20 - Feel Drained After a Cold Because of Chest Trouble|N|FA |C112546|concept_cd|||@
+1|\UNKNOWN\ALK Kinase Domain\|ALK Kinase Domain|N|FA |C118902|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Highest Level of Food Preparation\|ADCS-ADL MCI - Description of Highest Level of Food Preparation|N|FA |C106909|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 9\|ADNI AVLT - List A Recall 5 Word 9|N|FA |C101972|concept_cd|||@
+1|\UNKNOWN\AKAP8 in Mitosis Pathway\|AKAP8 in Mitosis Pathway|N|FA |C38979|concept_cd|||@
+1|\UNKNOWN\ACSL1 Gene\|ACSL1 Gene|N|FA |C20945|concept_cd|||@
+1|\UNKNOWN\AKT Signaling Pathway\|AKT Signaling Pathway|N|FA |C38981|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 3\|ADNI AVLT - List B Recall Word 3|N|FA |C102000|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pay Attention to Conversation\|ADCS-ADL - Pay Attention to Conversation|N|FA |C105297|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Vacuum\|ADCS-ADL - Appliance: Vacuum|N|FA |C105350|concept_cd|||@
+1|\UNKNOWN\AHR Gene\|AHR Gene|N|FA |C28523|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Time Taken to Complete Complex Activities\|ADCS-ADL MCI - Time Taken to Complete Complex Activities|N|FA |C106967|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 3\|ADNI AVLT - List A Recall 1 Word 3|N|FA |C101898|concept_cd|||@
+1|\UNKNOWN\APC Gene\|APC Gene|N|FA |C17567|concept_cd|||@
+1|\UNKNOWN\ARC Definite Stent Thrombosis\|ARC Definite Stent Thrombosis|N|FA |C119598|concept_cd|||@
+1|\UNKNOWN\ABCB6 Gene\|ABCB6 Gene|N|FA |C21264|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Sum of Items 1-5\|ADCS-ADL Severe Dementia - Sum of Items 1-5|N|FA |C107011|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM15 Gene\|ADAM15 Gene|N|FA |C26544|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, Black\|AIDS, Black|N|FA |C18622|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - List Hobbies Lost Ability to Perform\|ADCS-ADL MCI - List Hobbies Lost Ability to Perform|N|FA |C106959|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Herpes Zoster\|AIDS-Related Herpes Zoster|N|FA |C27862|concept_cd|||@
+1|\UNKNOWN\RUNX1/RUNX1T1 Fusion Protein\|RUNX1/RUNX1T1 Fusion Protein|N|FA |C19892|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Highest Performance of Telephone Use\|ADCS-ADL Severe Dementia - Description of Highest Performance of Telephone Use|N|FA |C106986|concept_cd|||@
+1|\UNKNOWN\APF530\|APF530|N|FA |C61567|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Converse Without Repeating\|ADCS-ADL MCI - Converse Without Repeating|N|FA |C106916|concept_cd|||@
+2|\UNKNOWN\ANGPTL1 Gene\ANGPTL1 wt Allele\|ANGPTL1 wt Allele|N|FA |C106474|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 6\|ADNI AVLT - List A Recall 5 Word 6|N|FA |C101969|concept_cd|||@
+1|\UNKNOWN\Dalantercept\|Dalantercept|N|FA |C88296|concept_cd|||@
+1|\UNKNOWN\ARHGAP26 Gene\|ARHGAP26 Gene|N|FA |C97504|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Lower Extremities\|AIMS - Lower Extremities|N|FA |C102039|concept_cd|||@
+2|\UNKNOWN\ABCB1 Gene\ABCB1 2 Allele\|ABCB1 2 Allele|N|FA |C45684|concept_cd|||@
+2|\UNKNOWN\ADCS-CGIC Questionnaire Question\ADCS-CGIC - Clinical Impression of Change from Baseline\|ADCS-CGIC - Clinical Impression of Change from Baseline|N|FA |C103531|concept_cd|||@
+1|\UNKNOWN\ACAPHA\|ACAPHA|N|FA |C93167|concept_cd|||@
+1|\UNKNOWN\ADP-Ribosylation Pathway\|ADP-Ribosylation Pathway|N|FA |C38989|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Dishwasher\|ADCS-ADL MCI - Use Household Appliance: Dishwasher|N|FA |C106933|concept_cd|||@
+3|\UNKNOWN\ADAM Family Gene\ADAM12 Gene\ADAM12 wt Allele\|ADAM12 wt Allele|N|FA |C96035|concept_cd|||@
+1|\UNKNOWN\ACVR2B Gene\|ACVR2B Gene|N|FA |C21273|concept_cd|||@
+1|\UNKNOWN\APC8015F\|APC8015F|N|FA |C48640|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 4\|ADNI AVLT - List A Recall 3 Word 4|N|FA |C101933|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 13\|ADNI AVLT - List A Recall 6 (After B) Word 13|N|FA |C101993|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Select First Clothes for the Day\|ADCS-ADL - Select First Clothes for the Day|N|FA |C105288|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Tennis\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Tennis|N|FA |C106953|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Washer\|ADCS-ADL - Appliance: Washer|N|FA |C105348|concept_cd|||@
+1|\UNKNOWN\AG337/Cisplatin\|AG337/Cisplatin|N|FA |C11149|concept_cd|||@
+1|\UNKNOWN\ARID1A Gene\|ARID1A Gene|N|FA |C92530|concept_cd|||@
+1|\UNKNOWN\Ridaforolimus\|Ridaforolimus|N|FA |C49061|concept_cd|||@
+1|\UNKNOWN\ALOX15 Gene\|ALOX15 Gene|N|FA |C21316|concept_cd|||@
+1|\UNKNOWN\ACSL6 Gene\|ACSL6 Gene|N|FA |C97519|concept_cd|||@
+1|\UNKNOWN\A-CMF Regimen\|A-CMF Regimen|N|FA |C64365|concept_cd|||@
+2|\UNKNOWN\AMIGO2 Gene\AMIGO2 wt Allele\|AMIGO2 wt Allele|N|FA |C119684|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Card or Board Games\|ADCS-ADL - Pastime: Card or Board Games|N|FA |C105330|concept_cd|||@
+1|\UNKNOWN\ADME Finding\|ADME Finding|N|FA |C70921|concept_cd|||@
+1|\UNKNOWN\AG-858/Imatinib Mesylate\|AG-858/Imatinib Mesylate|N|FA |C37494|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 14\|ADNI AVLT - List A Recall 1 Word 14|N|FA |C101909|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - B, Age Points\|APACHE II - B, Age Points|N|FA |C121111|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 12\|ADNI AVLT - List A Recall 3 Word 12|N|FA |C101941|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About What Subject Read More Than One Hour After Reading\|ADCS-ADL - Talk About What Subject Read More Than One Hour After Reading|N|FA |C105326|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Food Processor\|ADCS-ADL - Appliance: Food Processor|N|FA |C105356|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Item 17\|ADCS-ADL MCI - Subscore for Item 17|N|FA |C106976|concept_cd|||@
+2|\UNKNOWN\ABTB2 Gene\ABTB2 wt Allele\|ABTB2 wt Allele|N|FA |C90176|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Other Specify\|ADCS-ADL - Appliance: Other Specify|N|FA |C105358|concept_cd|||@
+1|\UNKNOWN\APPBP2 Gene\|APPBP2 Gene|N|FA |C20760|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Find Personal Belongings at Home\|ADCS-ADL Severe Dementia - Find Personal Belongings at Home|N|FA |C106995|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Subject Left on Their Own\|ADCS-ADL Severe Dementia - Subject Left on Their Own|N|FA |C107003|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Hematocrit\|APACHE II - Hematocrit|N|FA |C121107|concept_cd|||@
+1|\UNKNOWN\ADIPOQ Gene\|ADIPOQ Gene|N|FA |C94784|concept_cd|||@
+1|\UNKNOWN\ARID1B Gene\|ARID1B Gene|N|FA |C102520|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 14\|ADNI AVLT - List A Recall 5 Word 14|N|FA |C101977|concept_cd|||@
+1|\UNKNOWN\APOA4 Gene\|APOA4 Gene|N|FA |C116603|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Knitting\|ADCS-ADL - Pastime: Knitting|N|FA |C105335|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Total\|ADNI AVLT - List A Recall 2 Total|N|FA |C101928|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recognition Total\|ADNI AVLT - List A Recognition Total|N|FA |C102032|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Obtain Beverage for Self\|ADCS-ADL Severe Dementia - Obtain Beverage for Self|N|FA |C106997|concept_cd|||@
+1|\UNKNOWN\AIE Regimen\|AIE Regimen|N|FA |C67484|concept_cd|||@
+1|\UNKNOWN\ANPEP Gene\|ANPEP Gene|N|FA |C94622|concept_cd|||@
+1|\UNKNOWN\AIM Regimen\|AIM Regimen|N|FA |C63515|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 2\|ADNI AVLT - List A Recall 5 Word 2|N|FA |C101965|concept_cd|||@
+1|\UNKNOWN\AICA-Ribotide\|AICA-Ribotide|N|FA |C113498|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 15\|ADNI AVLT - List A Recall 4 Word 15|N|FA |C101961|concept_cd|||@
+1|\UNKNOWN\AIP Gene\|AIP Gene|N|FA |C95461|concept_cd|||@
+1|\UNKNOWN\ADME Study\|ADME Study|N|FA |C15967|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Optimal Performance of Walking\|ADCS-ADL - Description of Optimal Performance of Walking|N|FA |C105284|concept_cd|||@
+1|\UNKNOWN\ALK-FAK Inhibitor CEP-37440\|ALK-FAK Inhibitor CEP-37440|N|FA |C111685|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Left on His or Her Own\|ADCS-ADL MCI - Left on His or Her Own|N|FA |C106928|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Eating\|ADCS-ADL - Description of Usual Performance of Eating|N|FA |C105283|concept_cd|||@
+2|\UNKNOWN\ADIPOR2 Gene\ADIPOR2 wt Allele\|ADIPOR2 wt Allele|N|FA |C103977|concept_cd|||@
+1|\UNKNOWN\ARG1 Gene\|ARG1 Gene|N|FA |C103927|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Chest Trouble Make You Feel Impatient\|AQ20 - Chest Trouble Make You Feel Impatient|N|FA |C112544|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Turn Off Light Without Help Leaving Room\|ADCS-ADL Severe Dementia - Turn Off Light Without Help Leaving Room|N|FA |C107010|concept_cd|||@
+1|\UNKNOWN\ADCS-CGIC Questionnaire Question\|ADCS-CGIC Questionnaire Question|N|FA |C103490|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Read for More Than Five Minutes\|ADCS-ADL - Read for More Than Five Minutes|N|FA |C105324|concept_cd|||@
+2|\UNKNOWN\AIDS Clinical Trial\AIDS, Clinical Trials on Women\|AIDS, Clinical Trials on Women|N|FA |C15768|concept_cd|||@
+1|\UNKNOWN\AIM2 Gene\|AIM2 Gene|N|FA |C21391|concept_cd|||@
+1|\UNKNOWN\ADAM Family Protein\|ADAM Family Protein|N|FA |C21145|concept_cd|||@
+2|\UNKNOWN\ABCF2 Gene\ABCF2 wt Allele\|ABCF2 wt Allele|N|FA |C113328|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Human Papillomavirus Infection\|AIDS-Related Human Papillomavirus Infection|N|FA |C103296|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Human Papillomavirus Infection\|AIDS-Related Human Papillomavirus Infection|N|FA |C103296|concept_cd|||@
+1|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\|ADCS-ADL MCI Questionnaire Question|N|FA |C106672|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, International\|AIDS, International|N|FA |C18625|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Total\|ADNI AVLT - List A Recall 6 (After B) Total|N|FA |C101996|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recognition Intrusions\|ADNI AVLT - List A Recognition Intrusions|N|FA |C102033|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Write Things Down\|ADCS-ADL - Write Things Down|N|FA |C105327|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 15\|ADNI AVLT - List A 30 Min Delay Recall Word 15|N|FA |C102029|concept_cd|||@
+1|\UNKNOWN\AEG35156\|AEG35156|N|FA |C49180|concept_cd|||@
+1|\UNKNOWN\AC-T-T Regimen\|AC-T-T Regimen|N|FA |C63425|concept_cd|||@
+1|\UNKNOWN\ABO Hemolytic Disease of the Newborn\|ABO Hemolytic Disease of the Newborn|N|FA |C106273|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 7\|ADNI AVLT - List A Recall 6 (After B) Word 7|N|FA |C101987|concept_cd|||@
+1|\UNKNOWN\ARC Stent Thrombosis Timing Subacute\|ARC Stent Thrombosis Timing Subacute|N|FA |C119595|concept_cd|||@
+1|\UNKNOWN\AG/Cam Mouse\|AG/Cam Mouse|N|FA |C14642|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Sum of Items 16-19\|ADCS-ADL Severe Dementia - Sum of Items 16-19|N|FA |C107015|concept_cd|||@
+1|\UNKNOWN\Axitinib\|Axitinib|N|FA |C38718|concept_cd|||@
+2|\UNKNOWN\APBA3 Gene\APBA3 wt Allele\|APBA3 wt Allele|N|FA |C104849|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Toaster Oven\|ADCS-ADL MCI - Use Household Appliance: Toaster Oven|N|FA |C106935|concept_cd|||@
+1|\UNKNOWN\ACER2 Gene\|ACER2 Gene|N|FA |C103893|concept_cd|||@
+1|\UNKNOWN\A28807, Rat Strain\|A28807, Rat Strain|N|FA |C14393|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 6\|ADNI AVLT - List B Recall Word 6|N|FA |C102003|concept_cd|||@
+1|\UNKNOWN\AFP464\|AFP464|N|FA |C48370|concept_cd|||@
+1|\UNKNOWN\AG3340/Carboplatin/Paclitaxel\|AG3340/Carboplatin/Paclitaxel|N|FA |C11397|concept_cd|||@
+1|\UNKNOWN\AICDA Gene\|AICDA Gene|N|FA |C101413|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 6\|ADNI AVLT - List A Recall 3 Word 6|N|FA |C101935|concept_cd|||@
+1|\UNKNOWN\ALVAC-CEA-B7.1 Vaccine/Tetanus Toxoid\|ALVAC-CEA-B7.1 Vaccine/Tetanus Toxoid|N|FA |C37495|concept_cd|||@
+2|\UNKNOWN\APLP1 Gene\APLP1 wt Allele\|APLP1 wt Allele|N|FA |C119730|concept_cd|||@
+1|\UNKNOWN\ADIPOR2 Gene\|ADIPOR2 Gene|N|FA |C103976|concept_cd|||@
+2|\UNKNOWN\AIDS Clinical Trial\AIDS, Clinical Trials on Patients with Opportunistic Infections\|AIDS, Clinical Trials on Patients with Opportunistic Infections|N|FA |C15766|concept_cd|||@
+1|\UNKNOWN\ARAF Gene\|ARAF Gene|N|FA |C18354|concept_cd|||@
+2|\UNKNOWN\ACBD6 Gene\ACBD6 wt Allele\|ACBD6 wt Allele|N|FA |C114701|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 8\|ADNI AVLT - List A Recall 5 Word 8|N|FA |C101971|concept_cd|||@
+1|\UNKNOWN\ALVAC-CEA-B7.1 vaccine/Fluorouracil/Irinotecan/Leucovorin calcium\|ALVAC-CEA-B7.1 vaccine/Fluorouracil/Irinotecan/Leucovorin calcium|N|FA |C12100|concept_cd|||@
+1|\UNKNOWN\AMOT Gene\|AMOT Gene|N|FA |C98143|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Initiate Complex Daily Activities\|ADCS-ADL MCI - Initiate Complex Daily Activities|N|FA |C106966|concept_cd|||@
+1|\UNKNOWN\AC Regimen\|AC Regimen|N|FA |C63415|concept_cd|||@
+1|\UNKNOWN\ADP-Ribosyl Cyclase 1\|ADP-Ribosyl Cyclase 1|N|FA |C84323|concept_cd|||@
+1|\UNKNOWN\ARC Stent Thrombosis Timing Very Late\|ARC Stent Thrombosis Timing Very Late|N|FA |C119597|concept_cd|||@
+1|\UNKNOWN\AIDS Epidemiology\|AIDS Epidemiology|N|FA |C18619|concept_cd|||@
+1|\UNKNOWN\Analysis of Variance\|Analysis of Variance|N|FA |C53241|concept_cd|||@
+1|\UNKNOWN\ACPP Gene\|ACPP Gene|N|FA |C26507|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Worry When Going to Friend House Something Will Upset Your Chest\|AQ20 - Worry When Going to Friend House Something Will Upset Your Chest|N|FA |C112532|concept_cd|||@
+1|\UNKNOWN\APOA1BP Gene\|APOA1BP Gene|N|FA |C106641|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 13\|ADNI AVLT - List A Recall 4 Word 13|N|FA |C101959|concept_cd|||@
+2|\UNKNOWN\AGER Gene\AGER wt Allele\|AGER wt Allele|N|FA |C106213|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Patient's Awareness of Abnormal Movements\|AIMS - Patient's Awareness of Abnormal Movements|N|FA |C102043|concept_cd|||@
+2|\UNKNOWN\AKR1C1 Gene\AKR1C1 wt Allele\|AKR1C1 wt Allele|N|FA |C105418|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 15\|ADNI AVLT - List A Recall 2 Word 15|N|FA |C101927|concept_cd|||@
+1|\UNKNOWN\ALK Pathway\|ALK Pathway|N|FA |C38982|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Toaster Oven\|ADCS-ADL - Appliance: Toaster Oven|N|FA |C105353|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 10\|ADNI AVLT - List A Recall 6 (After B) Word 10|N|FA |C101990|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk Within 24 Hours After Reading\|ADCS-ADL MCI - Talk Within 24 Hours After Reading|N|FA |C106920|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 8\|ADNI AVLT - List A Recall 4 Word 8|N|FA |C101954|concept_cd|||@
+1|\UNKNOWN\ADNI-AVLT Questionnaire Question\|ADNI-AVLT Questionnaire Question|N|FA |C101870|concept_cd|||@
+1|\UNKNOWN\AMD1 Gene\|AMD1 Gene|N|FA |C102773|concept_cd|||@
+2|\UNKNOWN\APOA1BP Gene\APOA1BP wt Allele\|APOA1BP wt Allele|N|FA |C106642|concept_cd|||@
+1|\UNKNOWN\AEJ Mouse\|AEJ Mouse|N|FA |C14532|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Pay Attention to Conversation\|ADCS-ADL Severe Dementia - Pay Attention to Conversation|N|FA |C106991|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 1\|ADNI AVLT - List A Recall 6 (After B) Word 1|N|FA |C101981|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Serum HCO3\|APACHE II - Serum HCO3|N|FA |C121103|concept_cd|||@
+2|\UNKNOWN\ALVAC Vaccine\ALVAC-CEA Vaccine\|ALVAC-CEA Vaccine|N|FA |C1648|concept_cd|||@
+1|\UNKNOWN\ADRBK2 Gene\|ADRBK2 Gene|N|FA |C21383|concept_cd|||@
+1|\UNKNOWN\AIDS Associated Opportunistic Infection\|AIDS Associated Opportunistic Infection|N|FA |C4988|concept_cd|||@
+1|\UNKNOWN\ABHD12 Gene\|ABHD12 Gene|N|FA |C118545|concept_cd|||@
+1|\UNKNOWN\ACPP Antibody\|ACPP Antibody|N|FA |C112058|concept_cd|||@
+1|\UNKNOWN\ABT-510\|ABT-510|N|FA |C37447|concept_cd|||@
+1|\UNKNOWN\ABALON Gene\|ABALON Gene|N|FA |C118115|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Clearing Dishes\|ADCS-ADL - Description of Usual Performance of Clearing Dishes|N|FA |C105300|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Dressing\|ADCS-ADL - Description of Usual Performance of Dressing|N|FA |C105289|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Finding Belongings\|ADCS-ADL MCI - Description of Usual Performance of Finding Belongings|N|FA |C106892|concept_cd|||@
+2|\UNKNOWN\AHCY Gene\AHCY wt Allele\|AHCY wt Allele|N|FA |C104864|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Fishing\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Fishing|N|FA |C106955|concept_cd|||@
+2|\UNKNOWN\ALKBH7 Gene\ALKBH7 wt Allele\|ALKBH7 wt Allele|N|FA |C106585|concept_cd|||@
+1|\UNKNOWN\ACSL6/ETV6 Fusion Protein\|ACSL6/ETV6 Fusion Protein|N|FA |C99677|concept_cd|||@
+2|\UNKNOWN\ADAMTS13 Gene\ADAMTS13 wt Allele\|ADAMTS13 wt Allele|N|FA |C118326|concept_cd|||@
+1|\UNKNOWN\AIRE Gene\|AIRE Gene|N|FA |C114319|concept_cd|||@
+2|\UNKNOWN\ALPL Gene\ALPL wt Allele\|ALPL wt Allele|N|FA |C104231|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 11\|ADNI AVLT - List A Recall 1 Word 11|N|FA |C101906|concept_cd|||@
+1|\UNKNOWN\A-myb Messenger RNA Overexpression\|A-myb Messenger RNA Overexpression|N|FA |C38169|concept_cd|||@
+2|\UNKNOWN\ALDH1A1 Gene\ALDH1A1 wt Allele\|ALDH1A1 wt Allele|N|FA |C116057|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 6\|ADNI AVLT - List A Recall 1 Word 6|N|FA |C101901|concept_cd|||@
+1|\UNKNOWN\ADH4 Gene\|ADH4 Gene|N|FA |C111829|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk About Outside Home Events\|ADCS-ADL MCI - Talk About Outside Home Events|N|FA |C106914|concept_cd|||@
+2|\UNKNOWN\ALVAC Vaccine\ALVAC(2)-NY-ESO-1 (M)/TRICOM Vaccine\|ALVAC(2)-NY-ESO-1 (M)/TRICOM Vaccine|N|FA |C79832|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 13\|ADNI AVLT - List A Recall 1 Word 13|N|FA |C101908|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 6\|ADNI AVLT - List A Recall 2 Word 6|N|FA |C101918|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 7\|ADNI AVLT - List A Recall 1 Word 7|N|FA |C101902|concept_cd|||@
+1|\UNKNOWN\AHCY Gene\|AHCY Gene|N|FA |C104863|concept_cd|||@
+1|\UNKNOWN\ADD3/NUP98 Fusion Gene\|ADD3/NUP98 Fusion Gene|N|FA |C99679|concept_cd|||@
+1|\UNKNOWN\AKAP10 Gene\|AKAP10 Gene|N|FA |C97909|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Other\|ADCS-ADL - Appliance: Other|N|FA |C105357|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Pay for Items on His or Her Own\|ADCS-ADL MCI - Pay for Items on His or Her Own|N|FA |C106927|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Highest Performance of Obtaining Beverage\|ADCS-ADL Severe Dementia - Description of Highest Performance of Obtaining Beverage|N|FA |C106998|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Travel Outside Home\|ADCS-ADL MCI - Travel Outside Home|N|FA |C106910|concept_cd|||@
+2|\UNKNOWN\ARFIP1 Gene\ARFIP1 wt Allele\|ARFIP1 wt Allele|N|FA |C114682|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk About Content of Program After Watching Within a Day\|ADCS-ADL MCI - Talk About Content of Program After Watching Within a Day|N|FA |C106924|concept_cd|||@
+1|\UNKNOWN\AML/MDS\|AML/MDS|N|FA |C9441|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance\|ADCS-ADL MCI - Use Household Appliance|N|FA |C106932|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Power Tools\|ADCS-ADL MCI - Use Household Appliance: Power Tools|N|FA |C106934|concept_cd|||@
+1|\UNKNOWN\AN-9/Docetaxel\|AN-9/Docetaxel|N|FA |C37496|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Alone Away From Home for Fifteen Minutes or Longer\|ADCS-ADL Severe Dementia - Alone Away From Home for Fifteen Minutes or Longer|N|FA |C107004|concept_cd|||@
+2|\UNKNOWN\ANXA2 Gene\ANXA2 wt Allele\|ANXA2 wt Allele|N|FA |C105377|concept_cd|||@
+1|\UNKNOWN\APOB Gene\|APOB Gene|N|FA |C106030|concept_cd|||@
+2|\UNKNOWN\ALDH1B1 Gene\ALDH1B1 wt Allele\|ALDH1B1 wt Allele|N|FA |C97218|concept_cd|||@
+1|\UNKNOWN\ABCB1 Gene\|ABCB1 Gene|N|FA |C17966|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 11\|ADNI AVLT - List A Recall 4 Word 11|N|FA |C101957|concept_cd|||@
+3|\UNKNOWN\ADAM Family Gene\ADAM19 Gene\ADAM19 wt Allele\|ADAM19 wt Allele|N|FA |C114512|concept_cd|||@
+1|\UNKNOWN\ABCF2 Gene\|ABCF2 Gene|N|FA |C113327|concept_cd|||@
+2|\UNKNOWN\AJUBA Gene\AJUBA wt Allele\|AJUBA wt Allele|N|FA |C115437|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 12\|ADNI AVLT - List B Recall Word 12|N|FA |C102009|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM12 Gene\|ADAM12 Gene|N|FA |C96034|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 11\|ADNI AVLT - List A Recall 5 Word 11|N|FA |C101974|concept_cd|||@
+1|\UNKNOWN\AKAP12 Gene\|AKAP12 Gene|N|FA |C21306|concept_cd|||@
+2|\UNKNOWN\ACVR1C Gene\ACVR1C wt Allele\|ACVR1C wt Allele|N|FA |C96020|concept_cd|||@
+1|\UNKNOWN\AIF Pathway\|AIF Pathway|N|FA |C38977|concept_cd|||@
+1|\UNKNOWN\AJUBA Gene\|AJUBA Gene|N|FA |C115436|concept_cd|||@
+1|\UNKNOWN\ALPL Gene\|ALPL Gene|N|FA |C104230|concept_cd|||@
+1|\UNKNOWN\ACI/Seg, Rat Strain\|ACI/Seg, Rat Strain|N|FA |C76184|concept_cd|||@
+1|\UNKNOWN\AMMS/1 Mouse\|AMMS/1 Mouse|N|FA |C14792|concept_cd|||@
+1|\UNKNOWN\KDM1A Gene\|KDM1A Gene|N|FA |C78141|concept_cd|||@
+1|\UNKNOWN\AKAP13 Gene\|AKAP13 Gene|N|FA |C21307|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Require Help to Perform Hobbies\|ADCS-ADL MCI - Require Help to Perform Hobbies|N|FA |C106958|concept_cd|||@
+1|\UNKNOWN\AKR7A2 Gene\|AKR7A2 Gene|N|FA |C21309|concept_cd|||@
+1|\UNKNOWN\Infant Mortality, AIDS\|Infant Mortality, AIDS|N|FA |C19239|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 14\|ADNI AVLT - List A 30 Min Delay Recall Word 14|N|FA |C102028|concept_cd|||@
+1|\UNKNOWN\ARHGEF5 Gene\|ARHGEF5 Gene|N|FA |C18528|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Getting Emotionally Upset Make Chest Trouble Worse\|AQ20 - Getting Emotionally Upset Make Chest Trouble Worse|N|FA |C112537|concept_cd|||@
+1|\UNKNOWN\ABCC1 Gene\|ABCC1 Gene|N|FA |C18525|concept_cd|||@
+2|\UNKNOWN\ARC STC Timing Clinical Classification Question\ARC STC Timing - Stent Thrombosis Coronary ARC Timing\|ARC STC Timing - Stent Thrombosis Coronary ARC Timing|N|FA |C119197|concept_cd|||@
+2|\UNKNOWN\ALVAC Vaccine\ALVAC-hB7.1\|ALVAC-hB7.1|N|FA |C2485|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Reading\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Reading|N|FA |C106950|concept_cd|||@
+1|\UNKNOWN\ACVR1B Gene\|ACVR1B Gene|N|FA |C21268|concept_cd|||@
+2|\UNKNOWN\ALVAC Vaccine\ALVAC-MART-1 Vaccine\|ALVAC-MART-1 Vaccine|N|FA |C73999|concept_cd|||@
+2|\UNKNOWN\ANTXR1 Gene\ANTXR1 wt Allele\|ANTXR1 wt Allele|N|FA |C104094|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - A, Total Acute Physiology Score\|APACHE II - A, Total Acute Physiology Score|N|FA |C121110|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Sum of Items 9-12\|ADCS-ADL Severe Dementia - Sum of Items 9-12|N|FA |C107013|concept_cd|||@
+1|\UNKNOWN\APE Regimen\|APE Regimen|N|FA |C67487|concept_cd|||@
+1|\UNKNOWN\ANK2 Gene\|ANK2 Gene|N|FA |C114995|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Clean Laundry\|ADCS-ADL MCI - Description of Usual Performance of Clean Laundry|N|FA |C106903|concept_cd|||@
+1|\UNKNOWN\AMH Gene\|AMH Gene|N|FA |C101735|concept_cd|||@
+2|\UNKNOWN\AKT1 Gene Mutation\AKT1 NM_001014431.1:c.49G>A\|AKT1 NM_001014431.1:c.49G>A|N|FA |C98305|concept_cd|||@
+2|\UNKNOWN\KDM1A Gene\KDM1A wt Allele\|KDM1A wt Allele|N|FA |C78142|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Pelvic Inflammatory Disease\|AIDS-Related Pelvic Inflammatory Disease|N|FA |C27866|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Pelvic Inflammatory Disease\|AIDS-Related Pelvic Inflammatory Disease|N|FA |C27866|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Muscles of Facial Expression\|AIMS - Muscles of Facial Expression|N|FA |C102034|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Cleaning Room\|ADCS-ADL MCI - Description of Usual Performance of Cleaning Room|N|FA |C106897|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Other\|ADCS-ADL MCI - Use Household Appliance: Other|N|FA |C106939|concept_cd|||@
+2|\UNKNOWN\AIDS Clinical Trial\AIDS, Clinical Trials on Minorities\|AIDS, Clinical Trials on Minorities|N|FA |C15765|concept_cd|||@
+1|\UNKNOWN\ALK/TRK Inhibitor TSR-011\|ALK/TRK Inhibitor TSR-011|N|FA |C114287|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 14\|ADNI AVLT - List B Recall Word 14|N|FA |C102011|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 14\|ADNI AVLT - List A Recall 3 Word 14|N|FA |C101943|concept_cd|||@
+1|\UNKNOWN\APP Gene\|APP Gene|N|FA |C28537|concept_cd|||@
+1|\UNKNOWN\APC8015/Bevacizumab\|APC8015/Bevacizumab|N|FA |C12099|concept_cd|||@
+2|\UNKNOWN\AIDS Clinical Trial\AIDS, Clinical Trials on Children\|AIDS, Clinical Trials on Children|N|FA |C15767|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Usual Performance of Physically Getting Dressed\|ADCS-ADL MCI - Description of Usual Performance of Physically Getting Dressed|N|FA |C106895|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 11\|ADNI AVLT - List A 30 Min Delay Recall Word 11|N|FA |C102025|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Use Household Appliance: Other Specify\|ADCS-ADL MCI - Use Household Appliance: Other Specify|N|FA |C106940|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 7\|ADNI AVLT - List A Recall 3 Word 7|N|FA |C101936|concept_cd|||@
+1|\UNKNOWN\APOE Gene Product\|APOE Gene Product|N|FA |C105363|concept_cd|||@
+2|\UNKNOWN\ABCC6 Gene\ABCC6 wt Allele\|ABCC6 wt Allele|N|FA |C116947|concept_cd|||@
+1|\UNKNOWN\AIM1 Gene\|AIM1 Gene|N|FA |C21389|concept_cd|||@
+1|\UNKNOWN\ARC STC Grade Clinical Classification Question\|ARC STC Grade Clinical Classification Question|N|FA |C119091|concept_cd|||@
+1|\UNKNOWN\ALT_DEFINITION\|ALT_DEFINITION|N|FA |C53507|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM10 Gene\|ADAM10 Gene|N|FA |C91858|concept_cd|||@
+1|\UNKNOWN\AGTR2 Gene\|AGTR2 Gene|N|FA |C21387|concept_cd|||@
+1|\UNKNOWN\ACVR1C Gene\|ACVR1C Gene|N|FA |C96019|concept_cd|||@
+1|\UNKNOWN\AP-1 Complex\|AP-1 Complex|N|FA |C17450|concept_cd|||@
+1|\UNKNOWN\ACC/AHA Ischemic ECG Changes\|ACC/AHA Ischemic ECG Changes|N|FA |C116138|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About Events at Home that Subject Took Part in or Watched\|ADCS-ADL - Talk About Events at Home that Subject Took Part in or Watched|N|FA |C105323|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Serum Sodium\|APACHE II - Serum Sodium|N|FA |C121104|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Total Score\|ADCS-ADL Severe Dementia - Total Score|N|FA |C107016|concept_cd|||@
+1|\UNKNOWN\AKAP9/BRAF Fusion Protein\|AKAP9/BRAF Fusion Protein|N|FA |C99595|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Clean Room\|ADCS-ADL MCI - Clean Room|N|FA |C106896|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Highest Performance of Telephone Use\|ADCS-ADL - Description of Highest Performance of Telephone Use|N|FA |C105292|concept_cd|||@
+1|\UNKNOWN\ABO Gene\|ABO Gene|N|FA |C118322|concept_cd|||@
+1|\UNKNOWN\ANP32D Protein\|ANP32D Protein|N|FA |C21485|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 9\|ADNI AVLT - List A Recall 4 Word 9|N|FA |C101955|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Fishing\|ADCS-ADL - Pastime: Fishing|N|FA |C105342|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 3\|ADNI AVLT - List A Recall 6 (After B) Word 3|N|FA |C101983|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Make a Meal or Snack at Home\|ADCS-ADL - Make a Meal or Snack at Home|N|FA |C105305|concept_cd|||@
+1|\UNKNOWN\APEH Gene\|APEH Gene|N|FA |C17516|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 7\|ADNI AVLT - List B Recall Word 7|N|FA |C102004|concept_cd|||@
+1|\UNKNOWN\ADORA1 Gene\|ADORA1 Gene|N|FA |C38609|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Drive a Car\|ADCS-ADL MCI - Drive a Car|N|FA |C106960|concept_cd|||@
+1|\UNKNOWN\APOE Gene\|APOE Gene|N|FA |C84468|concept_cd|||@
+1|\UNKNOWN\ADORA2A Gene\|ADORA2A Gene|N|FA |C38611|concept_cd|||@
+2|\UNKNOWN\ABALON Gene\ABALON wt Allele\|ABALON wt Allele|N|FA |C118116|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Range\|ADCS-ADL - Appliance: Range|N|FA |C105354|concept_cd|||@
+2|\UNKNOWN\AKT1 Protein Variant\AKT1 NP_001014431.1:p.E17K\|AKT1 NP_001014431.1:p.E17K|N|FA |C98306|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About What Subject Read Less Than One Hour After Reading\|ADCS-ADL - Talk About What Subject Read Less Than One Hour After Reading|N|FA |C105325|concept_cd|||@
+1|\UNKNOWN\ANGPT2 Gene\|ANGPT2 Gene|N|FA |C21312|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Garbage Disposal\|ADCS-ADL - Description of Usual Performance of Garbage Disposal|N|FA |C105308|concept_cd|||@
+1|\UNKNOWN\ALDH1B1 Gene\|ALDH1B1 Gene|N|FA |C97217|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 12\|ADNI AVLT - List A 30 Min Delay Recall Word 12|N|FA |C102026|concept_cd|||@
+2|\UNKNOWN\ACADS Gene\ACADS wt Allele\|ACADS wt Allele|N|FA |C82872|concept_cd|||@
+2|\UNKNOWN\ALX4 Gene\ALX4 wt Allele\|ALX4 wt Allele|N|FA |C74966|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Lips and Perioral Area\|AIMS - Lips and Perioral Area|N|FA |C102035|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - How Subject Usually Selects Items\|ADCS-ADL - How Subject Usually Selects Items|N|FA |C105312|concept_cd|||@
+1|\UNKNOWN\A2G Mouse\|A2G Mouse|N|FA |C14647|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Left at Home Longer Than an Hour\|ADCS-ADL MCI - Left at Home Longer Than an Hour|N|FA |C106930|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 1\|ADNI AVLT - List A Recall 5 Word 1|N|FA |C101964|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Subject Left on Their Own\|ADCS-ADL - Subject Left on Their Own|N|FA |C105316|concept_cd|||@
+1|\UNKNOWN\ACSL6/ETV6 Fusion Gene\|ACSL6/ETV6 Fusion Gene|N|FA |C99676|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Bingo\|ADCS-ADL - Pastime: Bingo|N|FA |C105331|concept_cd|||@
+1|\UNKNOWN\APOBEC3A Gene\|APOBEC3A Gene|N|FA |C116998|concept_cd|||@
+1|\UNKNOWN\AE37 Peptide/GM-CSF Vaccine\|AE37 Peptide/GM-CSF Vaccine|N|FA |C91719|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Worry a Lot About Chest Trouble\|AQ20 - Worry a Lot About Chest Trouble|N|FA |C112548|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Find Personal Belongings\|ADCS-ADL MCI - Find Personal Belongings|N|FA |C106891|concept_cd|||@
+1|\UNKNOWN\ADA Gene\|ADA Gene|N|FA |C30156|concept_cd|||@
+1|\UNKNOWN\AIDS-Indirect Research\|AIDS-Indirect Research|N|FA |C19933|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk About at Home Events\|ADCS-ADL MCI - Talk About at Home Events|N|FA |C106915|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Other Specify\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Other Specify|N|FA |C106957|concept_cd|||@
+1|\UNKNOWN\AL Mouse\|AL Mouse|N|FA |C14646|concept_cd|||@
+1|\UNKNOWN\ALDH1A2 Gene\|ALDH1A2 Gene|N|FA |C21308|concept_cd|||@
+1|\UNKNOWN\ARHGEF12 Gene\|ARHGEF12 Gene|N|FA |C97436|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Chest Trouble Make You Feel Restless\|AQ20 - Chest Trouble Make You Feel Restless|N|FA |C112530|concept_cd|||@
+2|\UNKNOWN\AMOT Gene\AMOT wt Allele\|AMOT wt Allele|N|FA |C98144|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Cryptococcosis\|AIDS-Related Cryptococcosis|N|FA |C27861|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Cryptococcosis\|AIDS-Related Cryptococcosis|N|FA |C27861|concept_cd|||@
+1|\UNKNOWN\ALX4 Gene\|ALX4 Gene|N|FA |C74965|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Oropharyngeal Candidiasis\|AIDS-Related Oropharyngeal Candidiasis|N|FA |C27867|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Oropharyngeal Candidiasis\|AIDS-Related Oropharyngeal Candidiasis|N|FA |C27867|concept_cd|||@
+1|\UNKNOWN\AI Regimen\|AI Regimen|N|FA |C63686|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Common Pastimes\|ADCS-ADL - Description of Usual Performance of Common Pastimes|N|FA |C105346|concept_cd|||@
+1|\UNKNOWN\ADRA1A Gene\|ADRA1A Gene|N|FA |C21284|concept_cd|||@
+1|\UNKNOWN\ARACNE Algorithm\|ARACNE Algorithm|N|FA |C63899|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Clean Laundry\|ADCS-ADL MCI - Clean Laundry|N|FA |C106902|concept_cd|||@
+1|\UNKNOWN\APEX1 Gene\|APEX1 Gene|N|FA |C19677|concept_cd|||@
+1|\UNKNOWN\APEX1 Gene\|APEX1 Gene|N|FA |C19677|concept_cd|||@
+2|\UNKNOWN\ABCB5 Gene\ABCB5 wt Allele\|ABCB5 wt Allele|N|FA |C73556|concept_cd|||@
+1|\UNKNOWN\AB Mouse\|AB Mouse|N|FA |C15111|concept_cd|||@
+1|\UNKNOWN\AKR/N Mouse\|AKR/N Mouse|N|FA |C37355|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Items 13 to 14\|ADCS-ADL MCI - Subscore for Items 13 to 14|N|FA |C106974|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS in Hemophiliac Population\|AIDS in Hemophiliac Population|N|FA |C4987|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Talk About TV Content While Watching\|ADCS-ADL Severe Dementia - Talk About TV Content While Watching|N|FA |C106989|concept_cd|||@
+1|\UNKNOWN\ALVAC\|ALVAC|N|FA |C2312|concept_cd|||@
+1|\UNKNOWN\AMPH Gene\|AMPH Gene|N|FA |C20714|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 5\|ADNI AVLT - List A Recall 4 Word 5|N|FA |C101951|concept_cd|||@
+2|\UNKNOWN\APOBEC3F Gene\APOBEC3F wt Allele\|APOBEC3F wt Allele|N|FA |C95273|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Serum Creatinine\|APACHE II - Serum Creatinine|N|FA |C121106|concept_cd|||@
+1|\UNKNOWN\ALENDE/Ei Mouse\|ALENDE/Ei Mouse|N|FA |C14858|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 7\|ADNI AVLT - List A Recall 5 Word 7|N|FA |C101970|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Write Things Down\|ADCS-ADL MCI - Write Things Down|N|FA |C106900|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Usual Performance of Garbage Disposal\|ADCS-ADL Severe Dementia - Description of Usual Performance of Garbage Disposal|N|FA |C107000|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Respiratory Rate\|APACHE II - Respiratory Rate|N|FA |C121099|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Art\|ADCS-ADL - Pastime: Art|N|FA |C105333|concept_cd|||@
+1|\UNKNOWN\ABCG1 Gene\|ABCG1 Gene|N|FA |C113598|concept_cd|||@
+1|\UNKNOWN\ACF complex\|ACF complex|N|FA |C20154|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Highest Level of Performance of Telephone Use\|ADCS-ADL MCI - Description of Highest Level of Performance of Telephone Use|N|FA |C106907|concept_cd|||@
+1|\UNKNOWN\Daporinad\|Daporinad|N|FA |C67043|concept_cd|||@
+1|\UNKNOWN\Apgar Score at Ten Minutes\|Apgar Score at Ten Minutes|N|FA |C98817|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Tennis\|ADCS-ADL - Pastime: Tennis|N|FA |C105340|concept_cd|||@
+1|\UNKNOWN\ABCA2 Gene\|ABCA2 Gene|N|FA |C89022|concept_cd|||@
+2|\UNKNOWN\AKR1A1 Gene\AKR1A1 wt Allele\|AKR1A1 wt Allele|N|FA |C112102|concept_cd|||@
+1|\UNKNOWN\ALCAM Gene\|ALCAM Gene|N|FA |C20994|concept_cd|||@
+2|\UNKNOWN\AGPAT5 Gene\AGPAT5 wt Allele\|AGPAT5 wt Allele|N|FA |C114689|concept_cd|||@
+1|\UNKNOWN\AB Term Type\|AB Term Type|N|FA |C45767|concept_cd|||@
+1|\UNKNOWN\A-T-C Regimen\|A-T-C Regimen|N|FA |C64368|concept_cd|||@
+2|\UNKNOWN\APOE Gene\APOE wt Allele\|APOE wt Allele|N|FA |C84469|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Enterocolitis\|AIDS-Related Enterocolitis|N|FA |C27321|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Select or Ask for Television Program\|ADCS-ADL Severe Dementia - Select or Ask for Television Program|N|FA |C106988|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 5\|ADNI AVLT - List A Recall 2 Word 5|N|FA |C101917|concept_cd|||@
+2|\UNKNOWN\APBA2 Gene\APBA2 wt Allele\|APBA2 wt Allele|N|FA |C104845|concept_cd|||@
+1|\UNKNOWN\ADORA2B Gene\|ADORA2B Gene|N|FA |C38613|concept_cd|||@
+1|\UNKNOWN\ALR Mouse\|ALR Mouse|N|FA |C37356|concept_cd|||@
+1|\UNKNOWN\ABP/Le Mouse\|ABP/Le Mouse|N|FA |C14981|concept_cd|||@
+1|\UNKNOWN\Veliparib\|Veliparib|N|FA |C60768|concept_cd|||@
+2|\UNKNOWN\ABHD12 Gene\ABHD12 wt Allele\|ABHD12 wt Allele|N|FA |C118546|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 5\|ADNI AVLT - List A 30 Min Delay Recall Word 5|N|FA |C102019|concept_cd|||@
+1|\UNKNOWN\ACVRL1 Gene\|ACVRL1 Gene|N|FA |C21269|concept_cd|||@
+1|\UNKNOWN\AIMS Questionnaire Question\|AIMS Questionnaire Question|N|FA |C101869|concept_cd|||@
+1|\UNKNOWN\ABO Blood Group\|ABO Blood Group|N|FA |C76245|concept_cd|||@
+1|\UNKNOWN\ABCC3 Gene\|ABCC3 Gene|N|FA |C106021|concept_cd|||@
+1|\UNKNOWN\AJCC v6 Stage\|AJCC v6 Stage|N|FA |C90529|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Sum of Items 13-15\|ADCS-ADL Severe Dementia - Sum of Items 13-15|N|FA |C107014|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Use of Commonly Used Appliances\|ADCS-ADL - Description of Usual Use of Commonly Used Appliances|N|FA |C105359|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Turn Off Faucet After Wash Without Help\|ADCS-ADL Severe Dementia - Turn Off Faucet After Wash Without Help|N|FA |C107008|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Left at Home for One Hour or Longer\|ADCS-ADL - Left at Home for One Hour or Longer|N|FA |C105318|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Toaster\|ADCS-ADL - Appliance: Toaster|N|FA |C105352|concept_cd|||@
+1|\UNKNOWN\ABCC6 Gene\|ABCC6 Gene|N|FA |C116946|concept_cd|||@
+1|\UNKNOWN\ALPP Gene\|ALPP Gene|N|FA |C107487|concept_cd|||@
+1|\UNKNOWN\ANGPTL4 Gene\|ANGPTL4 Gene|N|FA |C96322|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 2\|ADNI AVLT - List A Recall 2 Word 2|N|FA |C101914|concept_cd|||@
+1|\UNKNOWN\AKR1C2 Gene\|AKR1C2 Gene|N|FA |C105426|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Upper Extremities\|AIMS - Upper Extremities|N|FA |C102038|concept_cd|||@
+1|\UNKNOWN\A1 Hydronephrosis\|A1 Hydronephrosis|N|FA |C123164|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 10\|ADNI AVLT - List B Recall Word 10|N|FA |C102007|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 5\|ADNI AVLT - List B Recall Word 5|N|FA |C102002|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 9\|ADNI AVLT - List A Recall 6 (After B) Word 9|N|FA |C101989|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Gardening\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Gardening|N|FA |C106951|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 8\|ADNI AVLT - List A Recall 6 (After B) Word 8|N|FA |C101988|concept_cd|||@
+2|\UNKNOWN\ABCG1 Gene\ABCG1 wt Allele\|ABCG1 wt Allele|N|FA |C113600|concept_cd|||@
+1|\UNKNOWN\ADRA2A Gene\|ADRA2A Gene|N|FA |C21286|concept_cd|||@
+2|\UNKNOWN\ARID1B Gene\ARID1B wt Allele\|ARID1B wt Allele|N|FA |C102521|concept_cd|||@
+1|\UNKNOWN\AKR1C1 Gene\|AKR1C1 Gene|N|FA |C105417|concept_cd|||@
+1|\UNKNOWN\ALK Inhibitor ASP3026\|ALK Inhibitor ASP3026|N|FA |C116727|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Select or Ask for Something to Read\|ADCS-ADL MCI - Select or Ask for Something to Read|N|FA |C106918|concept_cd|||@
+1|\UNKNOWN\ARC STC Timing Clinical Classification Question\|ARC STC Timing Clinical Classification Question|N|FA |C119090|concept_cd|||@
+2|\UNKNOWN\ACTA2 Gene\ACTA2 wt Allele\|ACTA2 wt Allele|N|FA |C103971|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Usual Performance of Physically Getting Dressed\|ADCS-ADL Severe Dementia - Description of Usual Performance of Physically Getting Dressed|N|FA |C106984|concept_cd|||@
+1|\UNKNOWN\AHSG Gene\|AHSG Gene|N|FA |C113821|concept_cd|||@
+1|\UNKNOWN\ARIA Oncology Information System\|ARIA Oncology Information System|N|FA |C105667|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 10\|ADNI AVLT - List A 30 Min Delay Recall Word 10|N|FA |C102024|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Get Chest Problems When Contact With Strong Smells\|AQ20 - Get Chest Problems When Contact With Strong Smells|N|FA |C112533|concept_cd|||@
+1|\UNKNOWN\AFP Gene Hepatocellular Carcinoma Vaccine\|AFP Gene Hepatocellular Carcinoma Vaccine|N|FA |C2512|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Intrusions 5\|ADNI AVLT - List A Intrusions 5|N|FA |C101980|concept_cd|||@
+1|\UNKNOWN\AKT1 Gene\|AKT1 Gene|N|FA |C18350|concept_cd|||@
+1|\UNKNOWN\ACSL3 Gene\|ACSL3 Gene|N|FA |C97365|concept_cd|||@
+1|\UNKNOWN\ADA Transduced T Cell\|ADA Transduced T Cell|N|FA |C28797|concept_cd|||@
+1|\UNKNOWN\ADAM Family Gene\|ADAM Family Gene|N|FA |C20791|concept_cd|||@
+1|\UNKNOWN\ABCG2 Gene\|ABCG2 Gene|N|FA |C20808|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Keep Appointments or Meetings with Others\|ADCS-ADL - Keep Appointments or Meetings with Others|N|FA |C105314|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Total\|ADNI AVLT - List A Recall 5 Total|N|FA |C101979|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Dispose of Garbage in Appropriate Place at Home\|ADCS-ADL - Dispose of Garbage in Appropriate Place at Home|N|FA |C105307|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Optimal Performance of Driving Car\|ADCS-ADL MCI - Description of Optimal Performance of Driving Car|N|FA |C106961|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Clear Dishes After Meal or Snack\|ADCS-ADL Severe Dementia - Clear Dishes After Meal or Snack|N|FA |C106993|concept_cd|||@
+1|\UNKNOWN\Romiplostim\|Romiplostim|N|FA |C52183|concept_cd|||@
+1|\UNKNOWN\ACER1 Gene\|ACER1 Gene|N|FA |C103888|concept_cd|||@
+1|\UNKNOWN\APO Regimen\|APO Regimen|N|FA |C67210|concept_cd|||@
+2|\UNKNOWN\ADD3 Gene\ADD3 wt Allele\|ADD3 wt Allele|N|FA |C80079|concept_cd|||@
+1|\UNKNOWN\ARHGAP5 Gene\|ARHGAP5 Gene|N|FA |C97279|concept_cd|||@
+1|\UNKNOWN\APOBEC3A_B Fusion Hybrid Gene\|APOBEC3A_B Fusion Hybrid Gene|N|FA |C117006|concept_cd|||@
+1|\UNKNOWN\AIDS Phobia\|AIDS Phobia|N|FA |C35614|concept_cd|||@
+1|\UNKNOWN\ABCC4 Gene\|ABCC4 Gene|N|FA |C103879|concept_cd|||@
+1|\UNKNOWN\AKR/J Mouse\|AKR/J Mouse|N|FA |C14505|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Highest Level of Food Preparation\|ADCS-ADL - Highest Level of Food Preparation|N|FA |C105306|concept_cd|||@
+2|\UNKNOWN\ACE Gene\ACE wt Allele\|ACE wt Allele|N|FA |C91296|concept_cd|||@
+1|\UNKNOWN\ANK1 Gene\|ANK1 Gene|N|FA |C84301|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Workshop\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Workshop|N|FA |C106954|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Usual Performance of Clearing Dishes\|ADCS-ADL Severe Dementia - Description of Usual Performance of Clearing Dishes|N|FA |C106994|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Item 18\|ADCS-ADL MCI - Subscore for Item 18|N|FA |C106977|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Walking Upstairs Make You Breathless\|AQ20 - Walking Upstairs Make You Breathless|N|FA |C112540|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Usual Bowel and Bladder Function at Toilet\|ADCS-ADL Severe Dementia - Usual Bowel and Bladder Function at Toilet|N|FA |C106981|concept_cd|||@
+1|\UNKNOWN\AML1-ETO Fusion Protein Expression\|AML1-ETO Fusion Protein Expression|N|FA |C37218|concept_cd|||@
+1|\UNKNOWN\ABCA5 Gene\|ABCA5 Gene|N|FA |C103876|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Other\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Other|N|FA |C106956|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 8\|ADNI AVLT - List B Recall Word 8|N|FA |C102005|concept_cd|||@
+1|\UNKNOWN\STAMBP Gene\|STAMBP Gene|N|FA |C21319|concept_cd|||@
+1|\UNKNOWN\ABC Transporter\|ABC Transporter|N|FA |C17750|concept_cd|||@
+1|\UNKNOWN\ABC Transporter\|ABC Transporter|N|FA |C17750|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Knitting\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Knitting|N|FA |C106948|concept_cd|||@
+1|\UNKNOWN\ABCC5 Gene\|ABCC5 Gene|N|FA |C103949|concept_cd|||@
+1|\UNKNOWN\ABV Regimen\|ABV Regimen|N|FA |C63437|concept_cd|||@
+1|\UNKNOWN\ABV Regimen\|ABV Regimen|N|FA |C63437|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About Events Outside of Home that Subject Took Part In\|ADCS-ADL - Talk About Events Outside of Home that Subject Took Part In|N|FA |C105322|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Workshop\|ADCS-ADL - Pastime: Workshop|N|FA |C105341|concept_cd|||@
+2|\UNKNOWN\AIDS Encephalopathy\AIDS Dementia\|AIDS Dementia|N|FA |C2864|concept_cd|||@
+1|\UNKNOWN\AQ20 Questionnaire Question\|AQ20 Questionnaire Question|N|FA |C112456|concept_cd|||@
+1|\UNKNOWN\ACOX2 Gene\|ACOX2 Gene|N|FA |C96441|concept_cd|||@
+1|\UNKNOWN\AIDA Regimen\|AIDA Regimen|N|FA |C63600|concept_cd|||@
+1|\UNKNOWN\ANGPTL1 Gene\|ANGPTL1 Gene|N|FA |C106472|concept_cd|||@
+1|\UNKNOWN\ARFIP1 Gene\|ARFIP1 Gene|N|FA |C114681|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 9\|ADNI AVLT - List A Recall 1 Word 9|N|FA |C101904|concept_cd|||@
+1|\UNKNOWN\APE/Gestational Trophoblastic Tumor Regimen\|APE/Gestational Trophoblastic Tumor Regimen|N|FA |C67514|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Total\|ADNI AVLT - List A 30 Min Delay Recall Total|N|FA |C102030|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Alone at Home for Less Than One Hour\|ADCS-ADL Severe Dementia - Alone at Home for Less Than One Hour|N|FA |C107006|concept_cd|||@
+1|\UNKNOWN\ALK Gene Mutation\|ALK Gene Mutation|N|FA |C81945|concept_cd|||@
+1|\UNKNOWN\APITD1 Gene\|APITD1 Gene|N|FA |C116620|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Most Complicated Writings\|ADCS-ADL - Description of Most Complicated Writings|N|FA |C105328|concept_cd|||@
+1|\UNKNOWN\ALK Fusion Protein Expression\|ALK Fusion Protein Expression|N|FA |C81946|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 13\|ADNI AVLT - List B Recall Word 13|N|FA |C102010|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 7\|ADNI AVLT - List A Recall 4 Word 7|N|FA |C101953|concept_cd|||@
+1|\UNKNOWN\ARC Probable Stent Thrombosis\|ARC Probable Stent Thrombosis|N|FA |C119599|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Watch Television\|ADCS-ADL MCI - Watch Television|N|FA |C106921|concept_cd|||@
+2|\UNKNOWN\ACER2 Gene\ACER2 wt Allele\|ACER2 wt Allele|N|FA |C103894|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Intrusions 6\|ADNI AVLT - List A Intrusions 6|N|FA |C101997|concept_cd|||@
+1|\UNKNOWN\Fas Receptor Agonist APO010\|Fas Receptor Agonist APO010|N|FA |C67041|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Pneumocystis Pneumonia\|AIDS-Related Pneumocystis Pneumonia|N|FA |C27863|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Pneumocystis Pneumonia\|AIDS-Related Pneumocystis Pneumonia|N|FA |C27863|concept_cd|||@
+1|\UNKNOWN\AAV-DC-CTL Tumor Cell Targeting Therapy\|AAV-DC-CTL Tumor Cell Targeting Therapy|N|FA |C107677|concept_cd|||@
+1|\UNKNOWN\Motesanib Diphosphate\|Motesanib Diphosphate|N|FA |C48374|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Get Breathless Doing Housework\|AQ20 - Get Breathless Doing Housework|N|FA |C112541|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 4\|ADNI AVLT - List A Recall 4 Word 4|N|FA |C101950|concept_cd|||@
+1|\UNKNOWN\Protein AF-17\|Protein AF-17|N|FA |C33947|concept_cd|||@
+1|\UNKNOWN\ADRA1B Gene\|ADRA1B Gene|N|FA |C20936|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Arterial pH\|APACHE II - Arterial pH|N|FA |C121102|concept_cd|||@
+1|\UNKNOWN\A-Glucuronidase Deficiency\|A-Glucuronidase Deficiency|N|FA |C61266|concept_cd|||@
+1|\UNKNOWN\ACP1 Gene\|ACP1 Gene|N|FA |C88195|concept_cd|||@
+1|\UNKNOWN\A990, Rat Strain\|A990, Rat Strain|N|FA |C14389|concept_cd|||@
+2|\UNKNOWN\AIDS Treatment Research\AIDS, Women\|AIDS, Women|N|FA |C18628|concept_cd|||@
+1|\UNKNOWN\ALK/ROS1 Inhibitor PF-06463922\|ALK/ROS1 Inhibitor PF-06463922|N|FA |C113655|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Select or Ask for Television Program\|ADCS-ADL - Select or Ask for Television Program|N|FA |C105294|concept_cd|||@
+2|\UNKNOWN\ARHGAP26 Gene\ARHGAP26 wt Allele\|ARHGAP26 wt Allele|N|FA |C97505|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Description of Awareness of the Meeting Ahead of Time\|ADCS-ADL MCI - Description of Awareness of the Meeting Ahead of Time|N|FA |C106905|concept_cd|||@
+1|\UNKNOWN\SH2B2 Gene\|SH2B2 Gene|N|FA |C21303|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Watch Television\|ADCS-ADL - Watch Television|N|FA |C105293|concept_cd|||@
+1|\UNKNOWN\ALDH2 Gene\|ALDH2 Gene|N|FA |C84921|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Optimal Performance of Walking\|ADCS-ADL Severe Dementia - Description of Optimal Performance of Walking|N|FA |C106980|concept_cd|||@
+1|\UNKNOWN\ACVR2A Gene\|ACVR2A Gene|N|FA |C21271|concept_cd|||@
+1|\UNKNOWN\ACHN\|ACHN|N|FA |C117213|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Total Score\|ADCS-ADL - Total Score|N|FA |C105360|concept_cd|||@
+1|\UNKNOWN\ADRB2 Gene\|ADRB2 Gene|N|FA |C21293|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 10\|ADNI AVLT - List A Recall 1 Word 10|N|FA |C101905|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Usual Conversation Participation\|ADCS-ADL Severe Dementia - Usual Conversation Participation|N|FA |C106992|concept_cd|||@
+1|\UNKNOWN\ALVAC-CEA Vaccine/Sargramostim\|ALVAC-CEA Vaccine/Sargramostim|N|FA |C11358|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Find Personal Belongings at Home\|ADCS-ADL - Find Personal Belongings at Home|N|FA |C105301|concept_cd|||@
+1|\UNKNOWN\ANP32D Gene\|ANP32D Gene|N|FA |C20759|concept_cd|||@
+2|\UNKNOWN\APOBEC3B Gene\APOBEC3B wt Allele\|APOBEC3B wt Allele|N|FA |C117002|concept_cd|||@
+1|\UNKNOWN\ALK Kinase Overexpression\|ALK Kinase Overexpression|N|FA |C38656|concept_cd|||@
+1|\UNKNOWN\AKT2 Gene Amplification\|AKT2 Gene Amplification|N|FA |C41367|concept_cd|||@
+1|\UNKNOWN\AKT2 Gene Amplification\|AKT2 Gene Amplification|N|FA |C41367|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 4\|ADNI AVLT - List A Recall 1 Word 4|N|FA |C101899|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Vulvovaginal Candidiasis\|AIDS-Related Vulvovaginal Candidiasis|N|FA |C27860|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Vulvovaginal Candidiasis\|AIDS-Related Vulvovaginal Candidiasis|N|FA |C27860|concept_cd|||@
+1|\UNKNOWN\PDS5B Gene\|PDS5B Gene|N|FA |C21310|concept_cd|||@
+1|\UNKNOWN\ABH Mouse\|ABH Mouse|N|FA |C14983|concept_cd|||@
+1|\UNKNOWN\ACBD6 Gene\|ACBD6 Gene|N|FA |C114700|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Intrusions\|ADNI AVLT - List B Intrusions|N|FA |C102014|concept_cd|||@
+1|\UNKNOWN\ACD Gene\|ACD Gene|N|FA |C119707|concept_cd|||@
+2|\UNKNOWN\AHSG Gene\AHSG wt Allele\|AHSG wt Allele|N|FA |C113822|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Watch Television\|ADCS-ADL Severe Dementia - Watch Television|N|FA |C106987|concept_cd|||@
+1|\UNKNOWN\ACADS Gene\|ACADS Gene|N|FA |C82871|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Microwave\|ADCS-ADL - Appliance: Microwave|N|FA |C105355|concept_cd|||@
+1|\UNKNOWN\ABC Transporter Inhibition\|ABC Transporter Inhibition|N|FA |C45555|concept_cd|||@
+1|\UNKNOWN\ADRBK1 Gene\|ADRBK1 Gene|N|FA |C21381|concept_cd|||@
+1|\UNKNOWN\ACRBP Gene\|ACRBP Gene|N|FA |C20754|concept_cd|||@
+1|\UNKNOWN\A498\|A498|N|FA |C117212|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Left at Home Less Than an Hour\|ADCS-ADL MCI - Left at Home Less Than an Hour|N|FA |C106931|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Human Papillomavirus Infection\|AIDS-Related Human Papillomavirus Infection|N|FA |C27852|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 6\|ADNI AVLT - List A Recall 6 (After B) Word 6|N|FA |C101986|concept_cd|||@
+1|\UNKNOWN\A-65\|A-65|N|FA |C2048|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Appliance: Dryer\|ADCS-ADL - Appliance: Dryer|N|FA |C105349|concept_cd|||@
+1|\UNKNOWN\Apgar Score at Five Minutes\|Apgar Score at Five Minutes|N|FA |C98821|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Golf\|ADCS-ADL - Pastime: Golf|N|FA |C105339|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Mean Arterial Pressure\|APACHE II - Mean Arterial Pressure|N|FA |C121097|concept_cd|||@
+1|\UNKNOWN\Apgar Score at One Minute\|Apgar Score at One Minute|N|FA |C98816|concept_cd|||@
+1|\UNKNOWN\APACHE II Clinical Classification Question\|APACHE II Clinical Classification Question|N|FA |C120994|concept_cd|||@
+1|\UNKNOWN\AFP Gene Hepatocellular Carcinoma Vaccine/Montanide ISA-51\|AFP Gene Hepatocellular Carcinoma Vaccine/Montanide ISA-51|N|FA |C11780|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 4 Word 3\|ADNI AVLT - List A Recall 4 Word 3|N|FA |C101949|concept_cd|||@
+2|\UNKNOWN\AIMS Questionnaire Question\AIMS - Patient Usually Wears Dentures\|AIMS - Patient Usually Wears Dentures|N|FA |C102045|concept_cd|||@
+2|\UNKNOWN\ABO Gene\ABO wt Allele\|ABO wt Allele|N|FA |C118323|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 6\|ADNI AVLT - List A 30 Min Delay Recall Word 6|N|FA |C102020|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 13\|ADNI AVLT - List A 30 Min Delay Recall Word 13|N|FA |C102027|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Oxygenation, A-aDO2\|APACHE II - Oxygenation, A-aDO2|N|FA |C121100|concept_cd|||@
+1|\UNKNOWN\TNK2 Gene\|TNK2 Gene|N|FA |C21266|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 3\|ADNI AVLT - List A Recall 2 Word 3|N|FA |C101915|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 9\|ADNI AVLT - List A Recall 2 Word 9|N|FA |C101921|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Talk Within 1 Hour After Reading\|ADCS-ADL MCI - Talk Within 1 Hour After Reading|N|FA |C106919|concept_cd|||@
+1|\UNKNOWN\ABC Transporter Pathway\|ABC Transporter Pathway|N|FA |C91509|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Obtain Beverage for Self\|ADCS-ADL - Obtain Beverage for Self|N|FA |C105303|concept_cd|||@
+1|\UNKNOWN\AKR Mouse\|AKR Mouse|N|FA |C37354|concept_cd|||@
+2|\UNKNOWN\AIDS-Related Lymphoma by Working Formulation\AIDS-Related Diffuse Mixed Cell Lymphoma\|AIDS-Related Diffuse Mixed Cell Lymphoma|N|FA |C8296|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Diffuse Mixed Cell Lymphoma\|AIDS-Related Diffuse Mixed Cell Lymphoma|N|FA |C8296|concept_cd|||@
+1|\UNKNOWN\AIDS-Related Diffuse Mixed Cell Lymphoma\|AIDS-Related Diffuse Mixed Cell Lymphoma|N|FA |C8296|concept_cd|||@
+1|\UNKNOWN\ANLN Gene\|ANLN Gene|N|FA |C103962|concept_cd|||@
+1|\UNKNOWN\ADRB1 Gene\|ADRB1 Gene|N|FA |C39778|concept_cd|||@
+2|\UNKNOWN\A2M Gene\A2M wt Allele\|A2M wt Allele|N|FA |C105923|concept_cd|||@
+1|\UNKNOWN\ABC Transporter Binding\|ABC Transporter Binding|N|FA |C40457|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM19 Gene\|ADAM19 Gene|N|FA |C114511|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Sewing\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Sewing|N|FA |C106949|concept_cd|||@
+1|\UNKNOWN\AA Mouse\|AA Mouse|N|FA |C14809|concept_cd|||@
+1|\UNKNOWN\A2/3 Hydronephrosis\|A2/3 Hydronephrosis|N|FA |C123165|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Intrusions 4\|ADNI AVLT - List A Intrusions 4|N|FA |C101963|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Perform Pastime, Hobby or Game: Crosswords\|ADCS-ADL MCI - Perform Pastime, Hobby or Game: Crosswords|N|FA |C106945|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A 30 Min Delay Recall Word 4\|ADNI AVLT - List A 30 Min Delay Recall Word 4|N|FA |C102018|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 2 Word 12\|ADNI AVLT - List A Recall 2 Word 12|N|FA |C101924|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Gardening Make You Breathless\|AQ20 - Gardening Make You Breathless|N|FA |C112531|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Items 1 to 3\|ADCS-ADL MCI - Subscore for Items 1 to 3|N|FA |C106970|concept_cd|||@
+2|\UNKNOWN\ANO1 Gene\ANO1 wt Allele\|ANO1 wt Allele|N|FA |C115174|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Left at Home for Less Than One Hour\|ADCS-ADL - Left at Home for Less Than One Hour|N|FA |C105319|concept_cd|||@
+1|\UNKNOWN\Lapuleucel-T\|Lapuleucel-T|N|FA |C2057|concept_cd|||@
+1|\UNKNOWN\ALK Gene\|ALK Gene|N|FA |C38184|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 10\|ADNI AVLT - List A Recall 3 Word 10|N|FA |C101939|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Pastime: Reading\|ADCS-ADL - Pastime: Reading|N|FA |C105337|concept_cd|||@
+1|\UNKNOWN\ALK Inhibitor RO5424802\|ALK Inhibitor RO5424802|N|FA |C105615|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List B Recall Word 4\|ADNI AVLT - List B Recall Word 4|N|FA |C102001|concept_cd|||@
+1|\UNKNOWN\ARC Stent Thrombosis Timing Acute\|ARC Stent Thrombosis Timing Acute|N|FA |C119594|concept_cd|||@
+1|\UNKNOWN\ACVR1 Gene\|ACVR1 Gene|N|FA |C21267|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 10\|ADNI AVLT - List A Recall 5 Word 10|N|FA |C101973|concept_cd|||@
+2|\UNKNOWN\AIDS Clinical Trial\AIDS, Clinical Trials on Patients with AIDS-Related Malignancies\|AIDS, Clinical Trials on Patients with AIDS-Related Malignancies|N|FA |C15764|concept_cd|||@
+2|\UNKNOWN\APITD1 Gene\APITD1 wt Allele\|APITD1 wt Allele|N|FA |C116621|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 15\|ADNI AVLT - List A Recall 5 Word 15|N|FA |C101978|concept_cd|||@
+3|\UNKNOWN\ALVAC Vaccine\ALVAC-CEA Vaccine\ALVAC-CEA (VCP248)\|ALVAC-CEA (VCP248)|N|FA |C2743|concept_cd|||@
+1|\UNKNOWN\AKT1 Protein Variant\|AKT1 Protein Variant|N|FA |C98303|concept_cd|||@
+1|\UNKNOWN\AQ Term Type\|AQ Term Type|N|FA |C45769|concept_cd|||@
+1|\UNKNOWN\A-Microtubule\|A-Microtubule|N|FA |C32060|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Points for Questions (1-18) Answered 'Don't Know'\|ADCS-ADL MCI - Points for Questions (1-18) Answered 'Don't Know'|N|FA |C107092|concept_cd|||@
+1|\UNKNOWN\AMFR Gene\|AMFR Gene|N|FA |C28525|concept_cd|||@
+1|\UNKNOWN\AMFR Gene\|AMFR Gene|N|FA |C28525|concept_cd|||@
+2|\UNKNOWN\ALK Fusion Protein Expression\ALO17-ALK Fusion Protein Expression\|ALO17-ALK Fusion Protein Expression|N|FA |C45443|concept_cd|||@
+1|\UNKNOWN\ABL1 Gene\|ABL1 Gene|N|FA |C17346|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 5\|ADNI AVLT - List A Recall 1 Word 5|N|FA |C101900|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 13\|ADNI AVLT - List A Recall 3 Word 13|N|FA |C101942|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Talk About TV Content While Watching\|ADCS-ADL - Talk About TV Content While Watching|N|FA |C105295|concept_cd|||@
+2|\UNKNOWN\ACADM Gene\ACADM wt Allele\|ACADM wt Allele|N|FA |C82874|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Description of Usual Performance of Finding Personal Belonging at Home\|ADCS-ADL Severe Dementia - Description of Usual Performance of Finding Personal Belonging at Home|N|FA |C106996|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Number of 'Don't Know' Responses\|ADCS-ADL - Number of 'Don't Know' Responses|N|FA |C105361|concept_cd|||@
+1|\UNKNOWN\ABL1/BCR Fusion Gene\|ABL1/BCR Fusion Gene|N|FA |C99683|concept_cd|||@
+2|\UNKNOWN\APOC3 Gene\APOC3 wt Allele\|APOC3 wt Allele|N|FA |C117098|concept_cd|||@
+1|\UNKNOWN\AREG Gene\|AREG Gene|N|FA |C20155|concept_cd|||@
+2|\UNKNOWN\ALPP Gene\ALPP wt Allele\|ALPP wt Allele|N|FA |C107553|concept_cd|||@
+1|\UNKNOWN\AKT Inhibitor ARQ 092\|AKT Inhibitor ARQ 092|N|FA |C99172|concept_cd|||@
+2|\UNKNOWN\ALVAC Vaccine\ALVAC(2) Melanoma Multi-antigen Vaccine\|ALVAC(2) Melanoma Multi-antigen Vaccine|N|FA |C73998|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 3 Word 5\|ADNI AVLT - List A Recall 3 Word 5|N|FA |C101934|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Turn On Faucet to Wash Without Help\|ADCS-ADL Severe Dementia - Turn On Faucet to Wash Without Help|N|FA |C107007|concept_cd|||@
+1|\UNKNOWN\ACTA2 Gene\|ACTA2 Gene|N|FA |C103970|concept_cd|||@
+1|\UNKNOWN\ABJ/Le Mouse\|ABJ/Le Mouse|N|FA |C14661|concept_cd|||@
+2|\UNKNOWN\AKAP10 Gene\AKAP10 wt Allele\|AKAP10 wt Allele|N|FA |C97910|concept_cd|||@
+1|\UNKNOWN\APBA2 Gene\|APBA2 Gene|N|FA |C104843|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Balance Checkbook\|ADCS-ADL MCI - Balance Checkbook|N|FA |C106898|concept_cd|||@
+2|\UNKNOWN\ARC STC Grade Clinical Classification Question\ARC STC Grade - Stent Thrombosis Coronary ARC Grade\|ARC STC Grade - Stent Thrombosis Coronary ARC Grade|N|FA |C119198|concept_cd|||@
+1|\UNKNOWN\AMP-Activated Protein Kinase Beta\|AMP-Activated Protein Kinase Beta|N|FA |C107149|concept_cd|||@
+1|\UNKNOWN\AMP-Activated Protein Kinase Beta\|AMP-Activated Protein Kinase Beta|N|FA |C107149|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 5 Word 5\|ADNI AVLT - List A Recall 5 Word 5|N|FA |C101968|concept_cd|||@
+2|\UNKNOWN\ADAM Family Gene\ADAM11 Gene\|ADAM11 Gene|N|FA |C20792|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Physically Getting Dressed\|ADCS-ADL - Description of Usual Performance of Physically Getting Dressed|N|FA |C105290|concept_cd|||@
+1|\UNKNOWN\ACE Gene\|ACE Gene|N|FA |C91295|concept_cd|||@
+1|\UNKNOWN\ARC Mouse\|ARC Mouse|N|FA |C14466|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 1 Word 1\|ADNI AVLT - List A Recall 1 Word 1|N|FA |C101896|concept_cd|||@
+1|\UNKNOWN\AMIGO2 Gene\|AMIGO2 Gene|N|FA |C119683|concept_cd|||@
+1|\UNKNOWN\AD Term Type\|AD Term Type|N|FA |C45768|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Severe Dementia Questionnaire Question\ADCS-ADL Severe Dementia - Use a Telephone\|ADCS-ADL Severe Dementia - Use a Telephone|N|FA |C106985|concept_cd|||@
+2|\UNKNOWN\ACP1 Gene\ACP1 wt Allele\|ACP1 wt Allele|N|FA |C88196|concept_cd|||@
+1|\UNKNOWN\ACTG2 Gene\|ACTG2 Gene|N|FA |C29948|concept_cd|||@
+2|\UNKNOWN\APACHE II Clinical Classification Question\APACHE II - Heart Rate\|APACHE II - Heart Rate|N|FA |C121098|concept_cd|||@
+1|\UNKNOWN\ALOX12 Gene\|ALOX12 Gene|N|FA |C103924|concept_cd|||@
+1|\UNKNOWN\APOBEC3G Gene\|APOBEC3G Gene|N|FA |C68588|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Awareness of Appointment Ahead of Time\|ADCS-ADL - Description of Awareness of Appointment Ahead of Time|N|FA |C105315|concept_cd|||@
+1|\UNKNOWN\ANGPT4 Gene\|ANGPT4 Gene|N|FA |C106488|concept_cd|||@
+2|\UNKNOWN\ANGPTL4 Gene\ANGPTL4 wt Allele\|ANGPTL4 wt Allele|N|FA |C96324|concept_cd|||@
+1|\UNKNOWN\ANP32B Gene\|ANP32B Gene|N|FA |C21302|concept_cd|||@
+1|\UNKNOWN\APC Gene Inactivation\|APC Gene Inactivation|N|FA |C36683|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Optimal Performance of Grooming\|ADCS-ADL - Description of Optimal Performance of Grooming|N|FA |C105287|concept_cd|||@
+1|\UNKNOWN\API Manufacture\|API Manufacture|N|FA |C82401|concept_cd|||@
+2|\UNKNOWN\ADNI-AVLT Questionnaire Question\ADNI AVLT - List A Recall 6 (After B) Word 4\|ADNI AVLT - List A Recall 6 (After B) Word 4|N|FA |C101984|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL Questionnaire Question\ADCS-ADL - Description of Usual Performance of Bathing\|ADCS-ADL - Description of Usual Performance of Bathing|N|FA |C105286|concept_cd|||@
+2|\UNKNOWN\ADCS-ADL MCI Questionnaire Question\ADCS-ADL MCI - Subscore for Items 4 to 7\|ADCS-ADL MCI - Subscore for Items 4 to 7|N|FA |C106971|concept_cd|||@
+1|\UNKNOWN\ADAM Type Metalloprotease Domain\|ADAM Type Metalloprotease Domain|N|FA |C25863|concept_cd|||@
+2|\UNKNOWN\AQ20 Questionnaire Question\AQ20 - Chest Trouble Make You Go Home Sooner Than Others\|AQ20 - Chest Trouble Make You Go Home Sooner Than Others|N|FA |C112542|concept_cd|||@

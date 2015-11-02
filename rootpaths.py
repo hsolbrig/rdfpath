@@ -26,85 +26,85 @@
 # LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 # OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 # OF THE POSSIBILITY OF SUCH DAMAGE.
-from rdflib import Graph, RDFS, BNode
+from rdflib import Graph, RDFS, BNode, URIRef
 import sys
 import argparse
 
-def par_graph_name(opts):
-    return opts.infile + ".s.ttl"
 
-
-def ancestors(n: str, parents: dict, paths: dict) -> list:
-    """ Determine the path(s) to the root for node n
-    :param n: Target node
-    :param parents: parents dictionary
-    :param paths: known paths
-    :return: list of lists of paths
+class PathEvaluator:
+    """ Path evaluator - given a graph and an optional set of starting nodes, create a set of paths according
+    to the template below
     """
-    if n in paths:
-        return paths[n]
-    if n in parents:
-        rval = []
-        for p in parents[n]:
-            for al in ancestors(p, parents, paths):
-                rval.append([p] + al)
-    else:
-        rval = [[]]
-    return rval
+    template = "%(depth)d|\\NCIT\\%(text_path)s|%(node_name)s|N|%(lorf)sA |%(concept_cd)s|concept_cd|||@"
 
+    def __init__(self, opts: argparse.Namespace):
+        self.opts = opts
+        self.g = Graph()
+        self.paths = dict()
+        self._o_print("Parsing: " + opts.infile)
+        self.g.parse(self.opts.infile, format=self.opts.infile_format)
+        self.outf = None
 
-def code_for(e):
-    return e.split('#')[-1]
+    def calc_paths(self, n: URIRef) -> None:
+        """ Determine the path(s) to the root for the supplied target node
+        :param n: Target node
+        """
+        if n not in self.paths:
+            rval = []
+            for o in self.g.objects(n, RDFS.subClassOf):
+                if not isinstance(o, BNode):
+                    for al in self.calc_paths(o):
+                        rval.append([o] + al)
+            self.paths[n] = rval if len(rval) else [[]]
+        return self.paths[n]
 
+    @staticmethod
+    def code_for(n: URIRef) -> str:
+        # TODO: Use the RDFLib namespace/name utilities rather than this simplistic solution
+        return str(n).split('#')[-1]
 
-def write_results(outf, opts: argparse.Namespace, paths: dict) -> None:
-    for k, ps in paths.items():
-        outf.write("\n%s:\n " % code_for(k))
-        # outf.write('\n'.join(['\t' + str(p) for p in ps]))
-        outf.write('\n'.join(['\t' + ', '.join([code_for(e) for e in p]) for p in ps]))
+    def name_for(self, n: URIRef) -> str:
+        if not self.opts.use_name:
+            return self.code_for(n)
+        names = list(self.g.objects(n, RDFS.label))
+        if not len(names):
+            print("Missing rdfs:label for %s" % self.code_for(n), file=sys.stderr)
+        return str(names[0]) if len(names) else "UNKNOWN"
 
+    def format_path(self, n: URIRef, path: list) -> str:
+        sep = self.opts.sep
+        return sep + sep.join([self.name_for(e) for e in reversed(path)]) + sep + self.name_for(n) + sep
 
-def write_path(outf, opts: argparse.Namespace, paths: dict) -> None:
-    for k, ps in paths.items():
-        print("*** " + k)
-        outf.write('\n/' + '\n/'.join(['/'.join([code_for(e) for e in reversed(p)]) for p in ps]) + '/' + code_for(k))
+    def gen_path(self, node: URIRef, path: str, outf) -> str:
+        if len(path):
+            depth = len(path) + 1
+            text_path = self.format_path(node, path)
+            node_name = self.name_for(node)
+            lorf = 'F' if len(list(self.g.objects(node, RDFS.subClassOf))) else 'L'
+            concept_cd = self.code_for(node)
+            outf.write(self.template % vars() + '\n')
 
+    def eval(self) -> None:
+        """ Evaluate the paths in the graph, either using the set of nodes supplied in the input or all nodes in the graph
+        """
+        self._o_print("Generating paths...", end='')
+        for node in self.opts.nodes if self.opts.nodes else set(self.g.subjects()):
+            if not isinstance(node, BNode):
+                self.calc_paths(node)
+        self._o_print("%d paths generated" % len(self.paths))
+        self._o_print("%d non-empty paths" % len([e for e in self.paths if len(e) > 0]))
 
-def parents_graph(g: Graph, opts: argparse.Namespace) -> dict:
-    rval = dict()
-    for s, o in g.subject_objects(RDFS.subClassOf):
-        if not isinstance(o, BNode):
-            rval.setdefault(str(s), []).append(str(o))
-    return rval
+        self._o_print("Writing " + (self.opts.outfile if self.opts.outfile else "stdout"), end='')
+        outf = open(self.opts.outfile, 'w') if self.opts.outfile else sys.stdout
+        [[self.gen_path(k, path, outf) for path in paths] for k, paths in self.paths.items()]
 
-
-def eval_paths(opts: argparse.Namespace):
-
-    def o_print(txt: str, end='\n'):
-        if opts.outfile:
+    def _o_print(self, txt: str, end='\n') -> None:
+        """ Print a message if we're not writing the actual data to stdout
+        :param txt: message
+        :param end: eol
+        """
+        if self.opts.outfile:
             print(txt, end=end)
-
-    o_print("Parsing: " + opts.infile)
-    g = Graph()
-    g.parse(opts.infile, format=opts.infile_format)
-
-    o_print("Processing...", end='')
-    parents = parents_graph(g, opts)
-    paths = dict()
-
-    if not opts.node:
-        for s in parents.keys():
-            paths[s] = ancestors(s, parents, paths)
-    else:
-        for n in opts.node:
-            paths[n] = ancestors(n, parents, paths)
-
-    o_print("%d paths processed" % len(paths))
-    if opts.outfile:
-        o_print("Writing " + opts.outfile + "...", end='')
-    outf = open(opts.outfile, 'w') if opts.outfile else sys.stdout
-    write_path(outf, opts, paths)
-    o_print("Done")
 
 
 def main(args):
@@ -114,12 +114,11 @@ def main(args):
     parser.add_argument("infile", help="Input OWL file")
     parser.add_argument("-if", "--infile_format", help="Input file format", default="xml")
     parser.add_argument("-o", "--outfile", help="Output file")
-    parser.add_argument("-n", "--node", help="Node(s) to create paths for. If absent, do all nodes", nargs="*")
-    parser.add_argument("-b", "--base", help="Base URI for node(s)")
-    parser.add_argument("-s", "--save", help="Save parents graph", action="store_true")
-    parser.add_argument("-u", "--use", help="Use parents graph", action="store_true")
+    parser.add_argument("-n", "--nodes", help="Node(s) to create paths for. If absent, do all nodes", nargs="*")
+    parser.add_argument("--sep", help="Path separator", default="\\")
+    parser.add_argument("-u", "--use_name", help="Use node name in paths instead of code", action="store_true")
     opts = parser.parse_args(args)
-    eval_paths(opts)
+    PathEvaluator(opts).eval()
 
 
 if __name__ == '__main__':

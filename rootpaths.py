@@ -35,7 +35,7 @@ class PathEvaluator:
     """ Path evaluator - given a graph and an optional set of starting nodes, create a set of paths according
     to the template below
     """
-    template = "%(depth)d|\\NCIT\\%(text_path)s|%(node_name)s|N|%(lorf)sA |%(concept_cd)s|concept_cd|||@"
+    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA |%(concept_cd)s|concept_cd|||@"
 
     def __init__(self, opts: argparse.Namespace):
         self.opts = opts
@@ -82,6 +82,7 @@ class PathEvaluator:
             node_name = self.name_for(node)
             lorf = 'F' if len(list(self.g.objects(node, RDFS.subClassOf))) else 'L'
             concept_cd = self.code_for(node)
+            sep = self.opts.sep
             outf.write(self.template % vars() + '\n')
 
     def eval(self) -> None:

@@ -26,7 +26,7 @@
 # LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 # OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 # OF THE POSSIBILITY OF SUCH DAMAGE.
-from rdflib import Graph, RDFS, BNode, URIRef
+from rdflib import Graph, RDFS, BNode, URIRef, RDF, OWL
 import sys
 import argparse
 
@@ -35,7 +35,7 @@ class PathEvaluator:
     """ Path evaluator - given a graph and an optional set of starting nodes, create a set of paths according
     to the template below
     """
-    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA||%(concept_cd)s||concept_cd|concept_dimension|concept_path|T|LIKE|%(sep)sNCIT%(text_path)s|(text_path)s|@|"
+    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA||%(concept_cd)s||concept_cd|concept_dimension|concept_path|T|LIKE|%(sep)sNCIT%(text_path)s|(text_path)s|@|||||||||"
 
     def __init__(self, opts: argparse.Namespace):
         self.opts = opts
@@ -53,6 +53,7 @@ class PathEvaluator:
             rval = []
             for o in self.g.objects(n, RDFS.subClassOf):
                 if not isinstance(o, BNode):
+                #if not isinstance(n, BNode) and not (n, RDF.type, OWL.AnnotationProperty) in self.g:
                     for al in self.calc_paths(o):
                         rval.append([o] + al)
             self.paths[n] = rval if len(rval) else [[]]
@@ -76,7 +77,7 @@ class PathEvaluator:
         return sep + sep.join([self.name_for(e) for e in reversed(path)]) + sep + self.name_for(n) + sep
 
     def gen_path(self, node: URIRef, path: str, outf) -> str:
-        if len(path):
+        #if len(path):
             depth = len(path) + 1
             text_path = self.format_path(node, path)
             node_name = self.name_for(node)

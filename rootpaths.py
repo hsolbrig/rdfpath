@@ -53,7 +53,6 @@ class PathEvaluator:
             rval = []
             for o in self.g.objects(n, RDFS.subClassOf):
                 if not isinstance(o, BNode):
-                #if not isinstance(n, BNode) and not (n, RDF.type, OWL.AnnotationProperty) in self.g:
                     for al in self.calc_paths(o):
                         rval.append([o] + al)
             self.paths[n] = rval if len(rval) else [[]]
@@ -77,21 +76,20 @@ class PathEvaluator:
         return sep + sep.join([self.name_for(e) for e in reversed(path)]) + sep + self.name_for(n) + sep
 
     def gen_path(self, node: URIRef, path: str, outf) -> str:
-        #if len(path):
-            depth = len(path) + 1
-            text_path = self.format_path(node, path)
-            node_name = self.name_for(node)
-            lorf = 'F' if len(list(self.g.objects(node, RDFS.subClassOf))) else 'L'
-            concept_cd = self.code_for(node)
-            sep = self.opts.sep
-            outf.write(self.template % vars() + '\n')
+        depth = len(path) + 1
+        text_path = self.format_path(node, path)
+        node_name = self.name_for(node)
+        lorf = 'F' if len(list(self.g.objects(node, RDFS.subClassOf))) else 'L'
+        concept_cd = self.code_for(node)
+        sep = self.opts.sep
+        outf.write(self.template % vars() + '\n')
 
     def eval(self) -> None:
         """ Evaluate the paths in the graph, either using the set of nodes supplied in the input or all nodes in the graph
         """
         self._o_print("Generating paths...", end='')
         for node in self.opts.nodes if self.opts.nodes else set(self.g.subjects()):
-            if not isinstance(node, BNode):
+            if not isinstance(node, BNode) and not (node, RDF.type, OWL.AnnotationProperty) in self.g:
                 self.calc_paths(node)
         self._o_print("%d paths generated" % len(self.paths))
         self._o_print("%d non-empty paths" % len([e for e in self.paths if len(e) > 0]))

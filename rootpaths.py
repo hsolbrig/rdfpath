@@ -79,7 +79,7 @@ class PathEvaluator:
         depth = len(path) + 1
         text_path = self.format_path(node, path)
         node_name = self.name_for(node)
-        lorf = 'F' if len(list(self.g.objects(node, RDFS.subClassOf))) else 'L'
+        lorf = 'F' if len(list(self.g.subjects(RDFS.subClassOf, node))) else 'L'
         concept_cd = self.code_for(node)
         sep = self.opts.sep
         outf.write(self.template % vars() + '\n')

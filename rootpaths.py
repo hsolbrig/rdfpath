@@ -35,7 +35,8 @@ class PathEvaluator:
     """ Path evaluator - given a graph and an optional set of starting nodes, create a set of paths according
     to the template below
     """
-    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA||%(concept_cd)s||concept_cd|concept_dimension|concept_path|T|LIKE|%(sep)sNCIT%(text_path)s|(text_path)s|@|||||||||"
+    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA||%(concept_cd)s||concept_cd|" \
+               "concept_dimension|concept_path|T|LIKE|%(sep)sNCIT%(text_path)s|(text_path)s|@|||||||||"
 
     def __init__(self, opts: argparse.Namespace):
         self.opts = opts
@@ -69,11 +70,12 @@ class PathEvaluator:
         names = list(self.g.objects(n, RDFS.label))
         if not len(names):
             print("Missing rdfs:label for %s" % self.code_for(n), file=sys.stderr)
-        return str(names[0]) if len(names) else "UNKNOWN"
+        return str(names[0]) if len(names) else str(n)
 
     def format_path(self, n: URIRef, path: list) -> str:
         sep = self.opts.sep
-        return sep + sep.join([self.name_for(e) for e in reversed(path)]) + sep + self.name_for(n) + sep
+        base = sep + (sep.join([self.name_for(e) for e in reversed(path)]) if path else '')
+        return base + sep + self.name_for(n) + sep
 
     def gen_path(self, node: URIRef, path: str, outf) -> str:
         depth = len(path) + 1
@@ -89,7 +91,7 @@ class PathEvaluator:
         """
         self._o_print("Generating paths...", end='')
         for node in self.opts.nodes if self.opts.nodes else set(self.g.subjects()):
-            if not isinstance(node, BNode) and not (node, RDF.type, OWL.AnnotationProperty) in self.g:
+            if not isinstance(node, BNode) and (node, RDF.type, OWL.Class) in self.g:
                 self.calc_paths(node)
         self._o_print("%d paths generated" % len(self.paths))
         self._o_print("%d non-empty paths" % len([e for e in self.paths if len(e) > 0]))

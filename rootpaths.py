@@ -36,8 +36,8 @@ class PathEvaluator:
     to the template below
     """
 
-    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA||%(concept_cd)s||concept_cd|" \
-               "concept_dimension|concept_path|T|LIKE|%(sep)sNCIT%(text_path)s|%(text_path)s|@|||||||||"
+    template = "%(depth)d|%(sep)sNCIT%(text_path)s|%(node_name)s|N|%(lorf)sA||NCIT:%(concept_cd)s||concept_cd|" \
+               "concept_dimension|concept_path|T|LIKE|%(sep)sNCIT%(text_path)s|%(sep)sNCIT%(text_path)s|%(sep)sNCIT%(text_path)s|||||||||"
 
     def __init__(self, opts: argparse.Namespace):
         self.opts = opts
